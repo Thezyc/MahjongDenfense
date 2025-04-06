@@ -1,0 +1,1929 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scene.meta": {
+      "time": 1741146948872.0186
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scene": {
+      "time": 1742095564369.014,
+      "uuid": "35576e0d-6d38-43f8-bd98-4e71832efd34"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts.meta": {
+      "time": 1741146939425.1914
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts": {
+      "time": 1743323110186.8606,
+      "uuid": "aa6267c1-7dea-4db4-b308-1d988960d845"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources.meta": {
+      "time": 1741416432187.9846
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MiaojiangTexture.meta": {
+      "time": 1742099007888.2625
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources": {
+      "time": 1743308848226.0208,
+      "uuid": "c81be5af-6a1a-40d9-8300-61e41a2386cf"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MiaojiangTexture": {
+      "time": 1741332532683.4927,
+      "uuid": "122a7e35-1ad3-4ea9-8d9e-0d7f2747b817"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MiaojiangTexture\\miaojiang_bai.png.meta": {
+      "time": 1741332532741.0173
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MiaojiangTexture\\miaojiang_bai.png": {
+      "time": 1741240835000,
+      "uuid": "5eabd8ef-b3fc-43cc-801f-9e92972a414a"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab.meta": {
+      "time": 1741146977148.815
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab": {
+      "time": 1743308875866.9712,
+      "uuid": "d840cbe0-f36e-4020-99f9-c4aa6a67feac"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scene\\MainScene.scene.meta": {
+      "time": 1741513553164.493
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scene\\MainScene.scene": {
+      "time": 1743350240376.5134,
+      "uuid": "7319cee2-ed1c-451c-b7d4-4d1f84c46d5d"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\MahjongTile.prefab.meta": {
+      "time": 1741513585078.5618
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\MahjongTile.prefab": {
+      "time": 1743393272743.7205,
+      "uuid": "01599341-7186-4f40-9b9e-7ad7085ba29c"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\GameManager.ts.meta": {
+      "time": 1741514115747.264
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\GameManager.ts": {
+      "time": 1743348744123.0881,
+      "uuid": "54f66159-a45f-4e6e-b540-817e74be2d16"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles.meta": {
+      "time": 1741332532680.9573
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles": {
+      "time": 1741332532703.8,
+      "uuid": "bf2490c7-62b6-4467-89a9-23d2071f0083"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_jian_1.png.meta": {
+      "time": 1741332532770.0784
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_jian_1.png": {
+      "time": 1741240309000,
+      "uuid": "33aa0e0f-4284-42c6-aea0-db42fea6ec4a"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_feng_2.png.meta": {
+      "time": 1741332532739.812
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_feng_2.png": {
+      "time": 1741240308000,
+      "uuid": "8cd90a7c-377c-457c-a661-fbb47ded92fb"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_feng_4.png.meta": {
+      "time": 1741332532744.8557
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_feng_4.png": {
+      "time": 1741240309000,
+      "uuid": "0851bcfb-8eb7-46c9-ba0a-52595be5c453"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_feng_1.png.meta": {
+      "time": 1741332532742.0242
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_feng_1.png": {
+      "time": 1741240309000,
+      "uuid": "bc8551dd-e60b-4cb6-b71b-70a2012bccae"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_feng_3.png.meta": {
+      "time": 1741332532737.5432
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_feng_3.png": {
+      "time": 1741240309000,
+      "uuid": "d6bdd372-dd8c-4967-bf8f-54b8c11b1f40"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_1.png.meta": {
+      "time": 1741332532766.7832
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_1.png": {
+      "time": 1741240309000,
+      "uuid": "8a858ea0-e112-4e92-b19c-ea5966d3957f"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_jian_3.png.meta": {
+      "time": 1741332532764.5986
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_jian_3.png": {
+      "time": 1741240308000,
+      "uuid": "cad2ff5e-69b6-4e88-8181-6c0634ffd9d3"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_jian_2.png.meta": {
+      "time": 1741332532762.2087
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_jian_2.png": {
+      "time": 1741240309000,
+      "uuid": "8466d49f-e8bd-44dc-ad28-d1148e055d34"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_2.png.meta": {
+      "time": 1741332532772.4104
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_2.png": {
+      "time": 1741240309000,
+      "uuid": "59d95576-8972-423c-97bb-f4b97ccc3cb6"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_3.png.meta": {
+      "time": 1741332532793.0337
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_3.png": {
+      "time": 1741240309000,
+      "uuid": "4954b7c4-82e7-4e78-969c-9749510ab819"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_5.png.meta": {
+      "time": 1741332532789.5032
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_5.png": {
+      "time": 1741240309000,
+      "uuid": "1fd4261c-2ab9-4d09-aa66-e9e70a411824"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_4.png.meta": {
+      "time": 1741332532789.5032
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_4.png": {
+      "time": 1741240309000,
+      "uuid": "0e989460-2b94-487f-a7c3-763c37447fba"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_6.png.meta": {
+      "time": 1741332532796.241
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_6.png": {
+      "time": 1741329162346.3264,
+      "uuid": "74a8e2a5-4f71-45ec-b9ed-1007ff8867e2"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_7.png.meta": {
+      "time": 1741332532795.2178
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_7.png": {
+      "time": 1741240309000,
+      "uuid": "87518057-b18b-410d-b74e-81e3896b996e"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_8.png.meta": {
+      "time": 1741332532817.5933
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_8.png": {
+      "time": 1741240309000,
+      "uuid": "90899e0b-9fb7-43d6-bfe5-76a0c535fad9"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_1.png.meta": {
+      "time": 1741332532815.222
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_1.png": {
+      "time": 1741240308000,
+      "uuid": "27e8a39b-4903-4367-ad79-ddb50527a1e3"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_9.png.meta": {
+      "time": 1741332532813.9106
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tiao_9.png": {
+      "time": 1741240309000,
+      "uuid": "70f72659-c0c1-4c30-955f-e1b52ad4aa91"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_4.png.meta": {
+      "time": 1741332532839.042
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_4.png": {
+      "time": 1741240308000,
+      "uuid": "6313469d-1db8-412d-a9c2-63ecdc986bb4"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_3.png.meta": {
+      "time": 1741332532821.4646
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_3.png": {
+      "time": 1741240309000,
+      "uuid": "1408dd63-292a-48e1-a240-a0cf7f721aed"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_2.png.meta": {
+      "time": 1741332532817.5933
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_2.png": {
+      "time": 1741240309000,
+      "uuid": "0d5fdc70-f99d-4fe2-a548-34f18e50c08b"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_5.png.meta": {
+      "time": 1741332532837.037
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_5.png": {
+      "time": 1741240308000,
+      "uuid": "38eec4b2-571a-4f66-a50b-2a4a7b090f8d"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_6.png.meta": {
+      "time": 1741332532843.4978
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_6.png": {
+      "time": 1741240308000,
+      "uuid": "facb7ac3-3be9-45c3-840b-1dafde6dcd2d"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_7.png.meta": {
+      "time": 1741332532841.202
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_7.png": {
+      "time": 1741240308000,
+      "uuid": "10e00120-ea2d-43ad-9d58-a87d6bfcfc03"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_8.png.meta": {
+      "time": 1741332532844.925
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_8.png": {
+      "time": 1741240308000,
+      "uuid": "13ec9f3f-6e04-42e5-9438-d686c72806d3"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_9.png.meta": {
+      "time": 1741332532889.2122
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_tong_9.png": {
+      "time": 1741240308000,
+      "uuid": "8e804f9e-2cbc-4657-b65b-8d19174cc2e9"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_2.png.meta": {
+      "time": 1741332532892.8098
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_2.png": {
+      "time": 1741240309000,
+      "uuid": "61e1116f-f318-408e-bb9f-5f0ef3e10b69"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_1.png.meta": {
+      "time": 1741332532886.8174
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_1.png": {
+      "time": 1741240309000,
+      "uuid": "1a17dcc0-29e0-47fd-9f6f-949f13bd6752"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_4.png.meta": {
+      "time": 1741332532896.2173
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_4.png": {
+      "time": 1741240309000,
+      "uuid": "e58b5400-3bfe-4b43-ae24-3f1d3d3737c3"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_3.png.meta": {
+      "time": 1741332532898.267
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_3.png": {
+      "time": 1741240309000,
+      "uuid": "0898f107-4f05-453f-8d41-fa4b36dd8f29"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_5.png.meta": {
+      "time": 1741332532907.5977
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_5.png": {
+      "time": 1741240309000,
+      "uuid": "f038e3fb-64b7-4f57-80ab-c8d5409816b1"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_7.png.meta": {
+      "time": 1741332532914.6555
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_7.png": {
+      "time": 1741240309000,
+      "uuid": "ae1a801f-7f9d-4742-b5bf-714d78507b2e"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_6.png.meta": {
+      "time": 1741332532908.6018
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_6.png": {
+      "time": 1741240309000,
+      "uuid": "bd8279f3-d9b4-4ca6-8544-48b9f43fe793"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_9.png.meta": {
+      "time": 1741332532913.6519
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_9.png": {
+      "time": 1741240309000,
+      "uuid": "8f4dbac1-6a88-47c0-8014-c26a70f6e19d"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_8.png.meta": {
+      "time": 1741332532915.809
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\MahjongTiles\\mj_wan_8.png": {
+      "time": 1741240309000,
+      "uuid": "51cbea15-c9be-484b-ba98-ffa668ae6157"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\MahjongTile.ts.meta": {
+      "time": 1741581667287.2944
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\MahjongTile.ts": {
+      "time": 1743496078828.9602,
+      "uuid": "246fe37d-7d01-49a1-88d2-e59ffd514916"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\background.png.meta": {
+      "time": 1741591905332.8308
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\background.png": {
+      "time": 1741591836301.8625,
+      "uuid": "1bf421ee-dfed-40e2-8a11-d887d2c9ee7a"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output.meta": {
+      "time": 1742099007848.5413
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output": {
+      "time": 1742099198510.5188,
+      "uuid": "30b41522-c834-4b20-905c-a160d2d52b14"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\combine_tiles.py.meta": {
+      "time": 1742099007910.2085
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_feng_1.png.meta": {
+      "time": 1742099007941.1582
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_feng_2.png.meta": {
+      "time": 1742099007939.0847
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_feng_3.png.meta": {
+      "time": 1742099007940.1392
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_feng_4.png.meta": {
+      "time": 1742099007945.4717
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_jian_1.png.meta": {
+      "time": 1742099007944.2188
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_jian_2.png.meta": {
+      "time": 1742099007961.5286
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_jian_3.png.meta": {
+      "time": 1742099007963.9077
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_1.png.meta": {
+      "time": 1742099007959.4429
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_2.png.meta": {
+      "time": 1742099007972.1118
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_3.png.meta": {
+      "time": 1742099008010.8386
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_4.png.meta": {
+      "time": 1742099007986.901
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_5.png.meta": {
+      "time": 1742099007997.8762
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_6.png.meta": {
+      "time": 1742099007992.4294
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_7.png.meta": {
+      "time": 1742099007995.861
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_8.png.meta": {
+      "time": 1742099008021.7742
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_9.png.meta": {
+      "time": 1742099008017.0637
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_1.png.meta": {
+      "time": 1742099008027.8528
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_2.png.meta": {
+      "time": 1742099008022.88
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_3.png.meta": {
+      "time": 1742099008038.5056
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_4.png.meta": {
+      "time": 1742099008045.006
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_5.png.meta": {
+      "time": 1742099008092.031
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_6.png.meta": {
+      "time": 1742099008050.1985
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_7.png.meta": {
+      "time": 1742099008056.1758
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_8.png.meta": {
+      "time": 1742099008086.656
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_9.png.meta": {
+      "time": 1742099008069.9878
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_1.png.meta": {
+      "time": 1742099008147.3015
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_2.png.meta": {
+      "time": 1742099008080.4263
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_3.png.meta": {
+      "time": 1742099008094.036
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_4.png.meta": {
+      "time": 1742099008123.7798
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_5.png.meta": {
+      "time": 1742099008135.4307
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_6.png.meta": {
+      "time": 1742099008114.295
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_7.png.meta": {
+      "time": 1742099008127.1494
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_8.png.meta": {
+      "time": 1742099008160.657
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_9.png.meta": {
+      "time": 1742099008159.2305
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\combine_tiles.py": {
+      "time": 1742098980022.506,
+      "uuid": "e81335c8-10e4-4f82-b5c0-57a7dc0149b8"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_feng_2.png": {
+      "time": 1742098980928.3135,
+      "uuid": "680d9869-a27f-49d6-9996-616f65f9a56b"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_feng_3.png": {
+      "time": 1742098980932.0034,
+      "uuid": "821ffb1e-e5d4-4abf-8801-7d71905d85eb"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_feng_1.png": {
+      "time": 1742098980925.1748,
+      "uuid": "b6864a81-2261-4151-a562-d1270c307379"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_jian_1.png": {
+      "time": 1742098980938.2478,
+      "uuid": "1c08566a-09fa-4db1-9d04-66751816514b"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_feng_4.png": {
+      "time": 1742098980935.0105,
+      "uuid": "d9e6de3d-50a8-4bcd-9c4b-757831aaf3c8"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_1.png": {
+      "time": 1742098980950.26,
+      "uuid": "6a4acc27-a76a-4741-add3-063450870f08"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_jian_2.png": {
+      "time": 1742098980943.4106,
+      "uuid": "151227b9-b841-4a65-a8cb-d543d370dd6f"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_jian_3.png": {
+      "time": 1742098980946.6975,
+      "uuid": "fc03ff29-7aa4-4955-92bf-e8fd3041b62a"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_2.png": {
+      "time": 1742098980953.411,
+      "uuid": "1e5b8d23-2bb6-4e83-8adc-05445f1b5027"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_4.png": {
+      "time": 1742098980960.5908,
+      "uuid": "6fc7bce0-77eb-4727-86f3-4a8d483ce570"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_6.png": {
+      "time": 1742098980968.7966,
+      "uuid": "1f4ca0ba-f632-4e12-8f4d-87e748ef5352"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_7.png": {
+      "time": 1742098980972.9211,
+      "uuid": "e49d1c49-b13c-4fb5-9c60-454d0e845a65"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_5.png": {
+      "time": 1742098980965.5374,
+      "uuid": "94c9866a-16d2-44a4-9f1b-0035726cd38b"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_3.png": {
+      "time": 1742098980957.0085,
+      "uuid": "eb2b6acc-bec9-4638-ba58-f356d002a0f9"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_9.png": {
+      "time": 1742098980981.2527,
+      "uuid": "9af01536-091b-4bce-bc2a-38bf1d4971c9"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_8.png": {
+      "time": 1742098980977.0056,
+      "uuid": "bd4cba06-c0fa-47ac-b740-98d7c97b6860"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_2.png": {
+      "time": 1742098980989.689,
+      "uuid": "96c9c0dd-b14d-4c05-a075-cf513fcfed87"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_1.png": {
+      "time": 1742098980985.4414,
+      "uuid": "471dcef5-7294-4d53-9bb8-33a844bf28ab"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_3.png": {
+      "time": 1742098980993.7163,
+      "uuid": "05829a86-29a0-46d6-8d53-e5b4a4b70a97"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_4.png": {
+      "time": 1742098980997.381,
+      "uuid": "fc4c6f41-2586-4bba-be1b-606725f25a78"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_6.png": {
+      "time": 1742098981005.752,
+      "uuid": "7afcd90f-9578-4453-ada6-d7997cf7d104"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_7.png": {
+      "time": 1742098981010.2175,
+      "uuid": "a5886237-fed9-42d6-8d03-b508d2f7259b"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_9.png": {
+      "time": 1742098981018.0586,
+      "uuid": "5dad12f0-1f1f-4d41-8cd2-19917862b96a"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_2.png": {
+      "time": 1742098981024.466,
+      "uuid": "04bae49b-0c75-4d17-8fbf-265cf8accbe4"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_8.png": {
+      "time": 1742098981014.323,
+      "uuid": "71f17335-a0b7-4ccd-89e3-6716245b49d1"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tong_5.png": {
+      "time": 1742098981001.4346,
+      "uuid": "bdd4ced8-d4cc-4c0a-b8d7-537e82b66a90"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_3.png": {
+      "time": 1742098981029.565,
+      "uuid": "302c8ebb-ac36-4c9f-a5e4-cd77aacc6960"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_6.png": {
+      "time": 1742098981039.8003,
+      "uuid": "85e0507d-8500-45e2-b766-1003814ae393"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_4.png": {
+      "time": 1742098981033.103,
+      "uuid": "ce967efd-0a1d-49a2-adc6-f9b751965f94"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_7.png": {
+      "time": 1742098981043.8335,
+      "uuid": "8c6be8f1-5493-48b2-a12d-e6fac4eea1d9"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_5.png": {
+      "time": 1742098981036.396,
+      "uuid": "1a382ab4-bdcb-4507-a1bc-9ae0ea1c1c38"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_1.png": {
+      "time": 1742098981021.3933,
+      "uuid": "b5152a6c-da45-41c6-9f69-d91f662f1f8b"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_9.png": {
+      "time": 1742098981050.0942,
+      "uuid": "401d9df4-2171-49ba-aff2-67cd8dfb9376"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_wan_8.png": {
+      "time": 1742098981047.067,
+      "uuid": "a0b81fec-1a31-40f0-81a3-410b242f1e32"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\HuPaiChecker.ts.meta": {
+      "time": 1742111291062.991
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\HuPaiChecker.ts": {
+      "time": 1742359608543.6187,
+      "uuid": "6e398af3-ac80-416d-9924-305e0fead38e"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster.meta": {
+      "time": 1742359737891.3247
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster": {
+      "time": 1742708304007.8684,
+      "uuid": "f3b9b542-ddf0-4284-9487-8ea1403da479"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\Monster.ts.meta": {
+      "time": 1742552799639.542
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\Monster.ts": {
+      "time": 1743349258252.855,
+      "uuid": "78fec37f-bf71-4aa1-8aaf-5fd8a53e119f"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\Monster.prefab.meta": {
+      "time": 1742557895644.361
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\Monster.prefab": {
+      "time": 1742709104652.4473,
+      "uuid": "b185b321-ccbd-4bc2-bdbe-0b7a860d5958"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\slime-IDLE.meta": {
+      "time": 1742708255555.3323
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\slime-IDLE\\greenformal-01.atlas.meta": {
+      "time": 1742708255560.7866
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\slime-IDLE\\greenformal-01.json.meta": {
+      "time": 1742708255562.494
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\slime-IDLE\\greenformal-01.png.meta": {
+      "time": 1742708255611.8762
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\slime-IDLE": {
+      "time": 1742708255546.868,
+      "uuid": "06ab209d-8e79-4eba-8183-e3198f14c9fc"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\slime-IDLE\\greenformal-01.atlas": {
+      "time": 1742707654000,
+      "uuid": "63414f18-81a1-4b98-9f9b-9fc2709a19fe"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\slime-IDLE\\greenformal-01.json": {
+      "time": 1742707654000,
+      "uuid": "f928c88a-0d1c-41c8-8a50-cd08b2753fd8"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\slime-IDLE\\greenformal-01.png": {
+      "time": 1742707654000,
+      "uuid": "fbfa6f99-2894-4c73-ab2d-579883cff294"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\gridPrefab.prefab.meta": {
+      "time": 1743057443894.5076
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\gridPrefab.prefab": {
+      "time": 1743225325460.0813,
+      "uuid": "a40749e1-8d9d-4608-b04e-bf0dc72d9414"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\emptyTile.png.meta": {
+      "time": 1743308848256.1013
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\emptyTile.png": {
+      "time": 1743308784785.4639,
+      "uuid": "d1378699-3914-473b-9980-6701ac17c09f"
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\Slot.prefab.meta": {
+      "time": 1743308875886.3503
+    },
+    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\Slot.prefab": {
+      "time": 1743323571407.4106,
+      "uuid": "d3334fb7-88cc-44cb-849d-30be5602ab09"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab": {
+      "time": 1743308875866.9712,
+      "uuid": "d840cbe0-f36e-4020-99f9-c4aa6a67feac"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources": {
+      "time": 1743308848226.0208,
+      "uuid": "c81be5af-6a1a-40d9-8300-61e41a2386cf"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scene": {
+      "time": 1742095564369.014,
+      "uuid": "35576e0d-6d38-43f8-bd98-4e71832efd34"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts": {
+      "time": 1743323110186.8606,
+      "uuid": "aa6267c1-7dea-4db4-b308-1d988960d845"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles": {
+      "time": 1741332532703.8,
+      "uuid": "bf2490c7-62b6-4467-89a9-23d2071f0083"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MiaojiangTexture": {
+      "time": 1741332532683.4927,
+      "uuid": "122a7e35-1ad3-4ea9-8d9e-0d7f2747b817"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\Monster": {
+      "time": 1742708304007.8684,
+      "uuid": "f3b9b542-ddf0-4284-9487-8ea1403da479"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output": {
+      "time": 1742099198510.5188,
+      "uuid": "30b41522-c834-4b20-905c-a160d2d52b14"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\Monster\\slime-IDLE": {
+      "time": 1742708255546.868,
+      "uuid": "06ab209d-8e79-4eba-8183-e3198f14c9fc"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\GameManager.ts": {
+      "time": 1743348744123.0881,
+      "uuid": "54f66159-a45f-4e6e-b540-817e74be2d16"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\HuPaiChecker.ts": {
+      "time": 1742359608543.6187,
+      "uuid": "6e398af3-ac80-416d-9924-305e0fead38e"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\MahjongTile.ts": {
+      "time": 1743496078828.9602,
+      "uuid": "246fe37d-7d01-49a1-88d2-e59ffd514916"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\Monster.ts": {
+      "time": 1743349258252.855,
+      "uuid": "78fec37f-bf71-4aa1-8aaf-5fd8a53e119f"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab.meta": {
+      "time": 1741146977148.815
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources.meta": {
+      "time": 1741416432187.9846
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scene.meta": {
+      "time": 1741146948872.0186
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts.meta": {
+      "time": 1741146939425.1914
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles.meta": {
+      "time": 1741332532680.9573
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MiaojiangTexture.meta": {
+      "time": 1742099007888.2625
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\Monster.meta": {
+      "time": 1742359737891.3247
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output.meta": {
+      "time": 1742099007848.5413
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\Monster\\slime-IDLE.meta": {
+      "time": 1742708255555.3323
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\GameManager.ts.meta": {
+      "time": 1741514115747.264
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\HuPaiChecker.ts.meta": {
+      "time": 1742111291062.991
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\MahjongTile.ts.meta": {
+      "time": 1741581667287.2944
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\Monster.ts.meta": {
+      "time": 1742552799639.542
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\gridPrefab.prefab": {
+      "time": 1743225325460.0813,
+      "uuid": "a40749e1-8d9d-4608-b04e-bf0dc72d9414"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\MahjongTile.prefab": {
+      "time": 1743393272743.7205,
+      "uuid": "01599341-7186-4f40-9b9e-7ad7085ba29c"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\Monster.prefab": {
+      "time": 1742709104652.4473,
+      "uuid": "b185b321-ccbd-4bc2-bdbe-0b7a860d5958"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\Slot.prefab": {
+      "time": 1743323571407.4106,
+      "uuid": "d3334fb7-88cc-44cb-849d-30be5602ab09"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\background.png": {
+      "time": 1741591836301.8625,
+      "uuid": "1bf421ee-dfed-40e2-8a11-d887d2c9ee7a"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\combine_tiles.py": {
+      "time": 1742098980022.506,
+      "uuid": "e81335c8-10e4-4f82-b5c0-57a7dc0149b8"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\emptyTile.png": {
+      "time": 1743308784785.4639,
+      "uuid": "d1378699-3914-473b-9980-6701ac17c09f"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scene\\MainScene.scene": {
+      "time": 1743350240376.5134,
+      "uuid": "7319cee2-ed1c-451c-b7d4-4d1f84c46d5d"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_feng_1.png": {
+      "time": 1741240309000,
+      "uuid": "bc8551dd-e60b-4cb6-b71b-70a2012bccae"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_feng_2.png": {
+      "time": 1741240308000,
+      "uuid": "8cd90a7c-377c-457c-a661-fbb47ded92fb"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_feng_3.png": {
+      "time": 1741240309000,
+      "uuid": "d6bdd372-dd8c-4967-bf8f-54b8c11b1f40"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_feng_4.png": {
+      "time": 1741240309000,
+      "uuid": "0851bcfb-8eb7-46c9-ba0a-52595be5c453"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_jian_1.png": {
+      "time": 1741240309000,
+      "uuid": "33aa0e0f-4284-42c6-aea0-db42fea6ec4a"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_jian_2.png": {
+      "time": 1741240309000,
+      "uuid": "8466d49f-e8bd-44dc-ad28-d1148e055d34"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_jian_3.png": {
+      "time": 1741240308000,
+      "uuid": "cad2ff5e-69b6-4e88-8181-6c0634ffd9d3"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_1.png": {
+      "time": 1741240309000,
+      "uuid": "8a858ea0-e112-4e92-b19c-ea5966d3957f"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_2.png": {
+      "time": 1741240309000,
+      "uuid": "59d95576-8972-423c-97bb-f4b97ccc3cb6"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_3.png": {
+      "time": 1741240309000,
+      "uuid": "4954b7c4-82e7-4e78-969c-9749510ab819"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_4.png": {
+      "time": 1741240309000,
+      "uuid": "0e989460-2b94-487f-a7c3-763c37447fba"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_5.png": {
+      "time": 1741240309000,
+      "uuid": "1fd4261c-2ab9-4d09-aa66-e9e70a411824"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_6.png": {
+      "time": 1741329162346.3264,
+      "uuid": "74a8e2a5-4f71-45ec-b9ed-1007ff8867e2"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_7.png": {
+      "time": 1741240309000,
+      "uuid": "87518057-b18b-410d-b74e-81e3896b996e"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_8.png": {
+      "time": 1741240309000,
+      "uuid": "90899e0b-9fb7-43d6-bfe5-76a0c535fad9"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_9.png": {
+      "time": 1741240309000,
+      "uuid": "70f72659-c0c1-4c30-955f-e1b52ad4aa91"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_1.png": {
+      "time": 1741240308000,
+      "uuid": "27e8a39b-4903-4367-ad79-ddb50527a1e3"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_2.png": {
+      "time": 1741240309000,
+      "uuid": "0d5fdc70-f99d-4fe2-a548-34f18e50c08b"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_3.png": {
+      "time": 1741240309000,
+      "uuid": "1408dd63-292a-48e1-a240-a0cf7f721aed"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_4.png": {
+      "time": 1741240308000,
+      "uuid": "6313469d-1db8-412d-a9c2-63ecdc986bb4"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_5.png": {
+      "time": 1741240308000,
+      "uuid": "38eec4b2-571a-4f66-a50b-2a4a7b090f8d"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_6.png": {
+      "time": 1741240308000,
+      "uuid": "facb7ac3-3be9-45c3-840b-1dafde6dcd2d"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_7.png": {
+      "time": 1741240308000,
+      "uuid": "10e00120-ea2d-43ad-9d58-a87d6bfcfc03"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_8.png": {
+      "time": 1741240308000,
+      "uuid": "13ec9f3f-6e04-42e5-9438-d686c72806d3"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_9.png": {
+      "time": 1741240308000,
+      "uuid": "8e804f9e-2cbc-4657-b65b-8d19174cc2e9"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_1.png": {
+      "time": 1741240309000,
+      "uuid": "1a17dcc0-29e0-47fd-9f6f-949f13bd6752"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_2.png": {
+      "time": 1741240309000,
+      "uuid": "61e1116f-f318-408e-bb9f-5f0ef3e10b69"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_3.png": {
+      "time": 1741240309000,
+      "uuid": "0898f107-4f05-453f-8d41-fa4b36dd8f29"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_4.png": {
+      "time": 1741240309000,
+      "uuid": "e58b5400-3bfe-4b43-ae24-3f1d3d3737c3"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_5.png": {
+      "time": 1741240309000,
+      "uuid": "f038e3fb-64b7-4f57-80ab-c8d5409816b1"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_6.png": {
+      "time": 1741240309000,
+      "uuid": "bd8279f3-d9b4-4ca6-8544-48b9f43fe793"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_7.png": {
+      "time": 1741240309000,
+      "uuid": "ae1a801f-7f9d-4742-b5bf-714d78507b2e"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_8.png": {
+      "time": 1741240309000,
+      "uuid": "51cbea15-c9be-484b-ba98-ffa668ae6157"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_9.png": {
+      "time": 1741240309000,
+      "uuid": "8f4dbac1-6a88-47c0-8014-c26a70f6e19d"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MiaojiangTexture\\miaojiang_bai.png": {
+      "time": 1741240835000,
+      "uuid": "5eabd8ef-b3fc-43cc-801f-9e92972a414a"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_feng_1.png": {
+      "time": 1742098980925.1748,
+      "uuid": "b6864a81-2261-4151-a562-d1270c307379"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_feng_2.png": {
+      "time": 1742098980928.3135,
+      "uuid": "680d9869-a27f-49d6-9996-616f65f9a56b"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_feng_3.png": {
+      "time": 1742098980932.0034,
+      "uuid": "821ffb1e-e5d4-4abf-8801-7d71905d85eb"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_feng_4.png": {
+      "time": 1742098980935.0105,
+      "uuid": "d9e6de3d-50a8-4bcd-9c4b-757831aaf3c8"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_jian_1.png": {
+      "time": 1742098980938.2478,
+      "uuid": "1c08566a-09fa-4db1-9d04-66751816514b"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_jian_2.png": {
+      "time": 1742098980943.4106,
+      "uuid": "151227b9-b841-4a65-a8cb-d543d370dd6f"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_jian_3.png": {
+      "time": 1742098980946.6975,
+      "uuid": "fc03ff29-7aa4-4955-92bf-e8fd3041b62a"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_1.png": {
+      "time": 1742098980950.26,
+      "uuid": "6a4acc27-a76a-4741-add3-063450870f08"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_2.png": {
+      "time": 1742098980953.411,
+      "uuid": "1e5b8d23-2bb6-4e83-8adc-05445f1b5027"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_3.png": {
+      "time": 1742098980957.0085,
+      "uuid": "eb2b6acc-bec9-4638-ba58-f356d002a0f9"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_4.png": {
+      "time": 1742098980960.5908,
+      "uuid": "6fc7bce0-77eb-4727-86f3-4a8d483ce570"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_5.png": {
+      "time": 1742098980965.5374,
+      "uuid": "94c9866a-16d2-44a4-9f1b-0035726cd38b"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_6.png": {
+      "time": 1742098980968.7966,
+      "uuid": "1f4ca0ba-f632-4e12-8f4d-87e748ef5352"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_7.png": {
+      "time": 1742098980972.9211,
+      "uuid": "e49d1c49-b13c-4fb5-9c60-454d0e845a65"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_8.png": {
+      "time": 1742098980977.0056,
+      "uuid": "bd4cba06-c0fa-47ac-b740-98d7c97b6860"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_9.png": {
+      "time": 1742098980981.2527,
+      "uuid": "9af01536-091b-4bce-bc2a-38bf1d4971c9"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_1.png": {
+      "time": 1742098980985.4414,
+      "uuid": "471dcef5-7294-4d53-9bb8-33a844bf28ab"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_2.png": {
+      "time": 1742098980989.689,
+      "uuid": "96c9c0dd-b14d-4c05-a075-cf513fcfed87"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_3.png": {
+      "time": 1742098980993.7163,
+      "uuid": "05829a86-29a0-46d6-8d53-e5b4a4b70a97"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_4.png": {
+      "time": 1742098980997.381,
+      "uuid": "fc4c6f41-2586-4bba-be1b-606725f25a78"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_5.png": {
+      "time": 1742098981001.4346,
+      "uuid": "bdd4ced8-d4cc-4c0a-b8d7-537e82b66a90"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_6.png": {
+      "time": 1742098981005.752,
+      "uuid": "7afcd90f-9578-4453-ada6-d7997cf7d104"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_7.png": {
+      "time": 1742098981010.2175,
+      "uuid": "a5886237-fed9-42d6-8d03-b508d2f7259b"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_8.png": {
+      "time": 1742098981014.323,
+      "uuid": "71f17335-a0b7-4ccd-89e3-6716245b49d1"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_9.png": {
+      "time": 1742098981018.0586,
+      "uuid": "5dad12f0-1f1f-4d41-8cd2-19917862b96a"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_1.png": {
+      "time": 1742098981021.3933,
+      "uuid": "b5152a6c-da45-41c6-9f69-d91f662f1f8b"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_2.png": {
+      "time": 1742098981024.466,
+      "uuid": "04bae49b-0c75-4d17-8fbf-265cf8accbe4"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_3.png": {
+      "time": 1742098981029.565,
+      "uuid": "302c8ebb-ac36-4c9f-a5e4-cd77aacc6960"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_4.png": {
+      "time": 1742098981033.103,
+      "uuid": "ce967efd-0a1d-49a2-adc6-f9b751965f94"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_5.png": {
+      "time": 1742098981036.396,
+      "uuid": "1a382ab4-bdcb-4507-a1bc-9ae0ea1c1c38"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_6.png": {
+      "time": 1742098981039.8003,
+      "uuid": "85e0507d-8500-45e2-b766-1003814ae393"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_7.png": {
+      "time": 1742098981043.8335,
+      "uuid": "8c6be8f1-5493-48b2-a12d-e6fac4eea1d9"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_8.png": {
+      "time": 1742098981047.067,
+      "uuid": "a0b81fec-1a31-40f0-81a3-410b242f1e32"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_9.png": {
+      "time": 1742098981050.0942,
+      "uuid": "401d9df4-2171-49ba-aff2-67cd8dfb9376"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\Monster\\slime-IDLE\\greenformal-01.atlas": {
+      "time": 1742707654000,
+      "uuid": "63414f18-81a1-4b98-9f9b-9fc2709a19fe"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\Monster\\slime-IDLE\\greenformal-01.json": {
+      "time": 1742707654000,
+      "uuid": "f928c88a-0d1c-41c8-8a50-cd08b2753fd8"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\Monster\\slime-IDLE\\greenformal-01.png": {
+      "time": 1742707654000,
+      "uuid": "fbfa6f99-2894-4c73-ab2d-579883cff294"
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\MahjongTile.prefab.meta": {
+      "time": 1741513585078.5618
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\Slot.prefab.meta": {
+      "time": 1743308875886.3503
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\Monster.prefab.meta": {
+      "time": 1742557895644.361
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\gridPrefab.prefab.meta": {
+      "time": 1743057443894.5076
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\combine_tiles.py.meta": {
+      "time": 1742099007910.2085
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scene\\MainScene.scene.meta": {
+      "time": 1741513553164.493
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_feng_1.png.meta": {
+      "time": 1741332532742.0242
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\emptyTile.png.meta": {
+      "time": 1743308848256.1013
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_feng_2.png.meta": {
+      "time": 1741332532739.812
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\background.png.meta": {
+      "time": 1741591905332.8308
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_jian_1.png.meta": {
+      "time": 1741332532770.0784
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_feng_4.png.meta": {
+      "time": 1741332532744.8557
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_jian_2.png.meta": {
+      "time": 1741332532762.2087
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_feng_3.png.meta": {
+      "time": 1741332532737.5432
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_jian_3.png.meta": {
+      "time": 1741332532764.5986
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_1.png.meta": {
+      "time": 1741332532766.7832
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_2.png.meta": {
+      "time": 1741332532772.4104
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_3.png.meta": {
+      "time": 1741332532793.0337
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_4.png.meta": {
+      "time": 1741332532789.5032
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_5.png.meta": {
+      "time": 1741332532789.5032
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_6.png.meta": {
+      "time": 1741332532796.241
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_7.png.meta": {
+      "time": 1741332532795.2178
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_8.png.meta": {
+      "time": 1741332532817.5933
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tiao_9.png.meta": {
+      "time": 1741332532813.9106
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_1.png.meta": {
+      "time": 1741332532815.222
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_2.png.meta": {
+      "time": 1741332532817.5933
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_3.png.meta": {
+      "time": 1741332532821.4646
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_4.png.meta": {
+      "time": 1741332532839.042
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_5.png.meta": {
+      "time": 1741332532837.037
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_6.png.meta": {
+      "time": 1741332532843.4978
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_7.png.meta": {
+      "time": 1741332532841.202
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_8.png.meta": {
+      "time": 1741332532844.925
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_tong_9.png.meta": {
+      "time": 1741332532889.2122
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_1.png.meta": {
+      "time": 1741332532886.8174
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_2.png.meta": {
+      "time": 1741332532892.8098
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_3.png.meta": {
+      "time": 1741332532898.267
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_4.png.meta": {
+      "time": 1741332532896.2173
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_5.png.meta": {
+      "time": 1741332532907.5977
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_6.png.meta": {
+      "time": 1741332532908.6018
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_7.png.meta": {
+      "time": 1741332532914.6555
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_9.png.meta": {
+      "time": 1741332532913.6519
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_wan_8.png.meta": {
+      "time": 1741332532915.809
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MiaojiangTexture\\miaojiang_bai.png.meta": {
+      "time": 1741332532741.0173
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_feng_1.png.meta": {
+      "time": 1742099007941.1582
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_feng_3.png.meta": {
+      "time": 1742099007940.1392
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_feng_2.png.meta": {
+      "time": 1742099007939.0847
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_feng_4.png.meta": {
+      "time": 1742099007945.4717
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_jian_1.png.meta": {
+      "time": 1742099007944.2188
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_jian_2.png.meta": {
+      "time": 1742099007961.5286
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_1.png.meta": {
+      "time": 1742099007959.4429
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_jian_3.png.meta": {
+      "time": 1742099007963.9077
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_2.png.meta": {
+      "time": 1742099007972.1118
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_3.png.meta": {
+      "time": 1742099008010.8386
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_4.png.meta": {
+      "time": 1742099007986.901
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_5.png.meta": {
+      "time": 1742099007997.8762
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_7.png.meta": {
+      "time": 1742099007995.861
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_6.png.meta": {
+      "time": 1742099007992.4294
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_8.png.meta": {
+      "time": 1742099008021.7742
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tiao_9.png.meta": {
+      "time": 1742099008017.0637
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_2.png.meta": {
+      "time": 1742099008022.88
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_1.png.meta": {
+      "time": 1742099008027.8528
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_3.png.meta": {
+      "time": 1742099008038.5056
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_4.png.meta": {
+      "time": 1742099008045.006
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_5.png.meta": {
+      "time": 1742099008092.031
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_6.png.meta": {
+      "time": 1742099008050.1985
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_7.png.meta": {
+      "time": 1742099008056.1758
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_8.png.meta": {
+      "time": 1742099008086.656
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_tong_9.png.meta": {
+      "time": 1742099008069.9878
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_2.png.meta": {
+      "time": 1742099008080.4263
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_1.png.meta": {
+      "time": 1742099008147.3015
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_3.png.meta": {
+      "time": 1742099008094.036
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_4.png.meta": {
+      "time": 1742099008123.7798
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_5.png.meta": {
+      "time": 1742099008135.4307
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\Monster\\slime-IDLE\\greenformal-01.atlas.meta": {
+      "time": 1742708255560.7866
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_6.png.meta": {
+      "time": 1742099008114.295
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_7.png.meta": {
+      "time": 1742099008127.1494
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_8.png.meta": {
+      "time": 1742099008160.657
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\output\\combined_mj_wan_9.png.meta": {
+      "time": 1742099008159.2305
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\Monster\\slime-IDLE\\greenformal-01.png.meta": {
+      "time": 1742708255611.8762
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\Monster\\slime-IDLE\\greenformal-01.json.meta": {
+      "time": 1742708255562.494
+    }
+  },
+  "missing": {
+    "a809bf0f-c041-48c9-9f7f-a6a2e1df5a2f": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Prefab\\MaJiang.prefab",
+      "time": 1741147016906.7458,
+      "removeTime": 1741159506715
+    },
+    "6db5fcae-a4ec-4b28-b746-db5da5521a30": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource",
+      "time": 1741329455391.4187,
+      "removeTime": 1741332532572
+    },
+    "87dfa063-938a-42f6-b439-03177cf78e12": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\baiban.png",
+      "time": 1740888800770.0227,
+      "removeTime": 1741328563124
+    },
+    "74b96681-245a-48a2-a0b7-d998993c56c5": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\facai.png",
+      "time": 1740888800748.317,
+      "removeTime": 1741328563344
+    },
+    "e11ab8c2-ad29-4a1d-bf71-29a5d3f05253": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\hongzhong.png",
+      "time": 1740888800773.142,
+      "removeTime": 1741328563342
+    },
+    "beb81b37-78e3-4282-b8c3-956809d94562": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tong_8.png.png",
+      "time": 1741240308000,
+      "removeTime": 1741328972226
+    },
+    "942fd662-6877-4ee8-8318-48d72f39ddc7": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\MiaojiangTexture",
+      "time": 1741257784105.198,
+      "removeTime": 1741332532576
+    },
+    "551f47a2-89ad-4abe-8840-a7df6daec8ed": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\MiaojiangTexture\\miaojiang_bai.png",
+      "time": 1741240835000,
+      "removeTime": 1741332532576
+    },
+    "d2397d65-f43f-49ac-bd33-78c908fcbe71": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\SetGenerator.ts",
+      "time": 1741340788300.302,
+      "removeTime": 1741841916960
+    },
+    "dbd2b86c-56cb-40cb-9802-4a2cb95c398b": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\MahjongGame.ts",
+      "time": 1741190357860.244,
+      "removeTime": 1741334631500
+    },
+    "d840cbe0-f36e-4020-99f9-c4aa6a67feac": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefabs",
+      "time": 1741413066449.2349,
+      "removeTime": 1741416561265
+    },
+    "71b47899-a102-4624-bfb7-93bc2ddff1bb": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\Mahjong.prefab",
+      "time": 1741190348965.3145,
+      "removeTime": 1741332600501
+    },
+    "35576e0d-6d38-43f8-bd98-4e71832efd34": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Scene",
+      "time": 1741159595920.755,
+      "removeTime": 1741332443223
+    },
+    "d9b1b4c2-cf06-46cc-bbf9-38596e879b19": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scene\\scene.scene",
+      "time": 1741512043620.583,
+      "removeTime": 1742095564369
+    },
+    "aa6267c1-7dea-4db4-b308-1d988960d845": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Scripts",
+      "time": 1741329654520.705,
+      "removeTime": 1741332457079
+    },
+    "05d27a3e-0b4f-47d9-9582-d4c3dac7d229": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles",
+      "time": 1741329204835.8342,
+      "removeTime": 1741332532572
+    },
+    "e35c44fa-4e76-48b9-b1ad-831a599aaa1e": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_feng_1.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532572
+    },
+    "df075090-878d-49bc-bc4c-f6134fa434b5": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_feng_2.png",
+      "time": 1741240308000,
+      "removeTime": 1741332532572
+    },
+    "0f20be0e-9004-48b0-a52f-84281d18e4c5": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_feng_3.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532572
+    },
+    "74bf5b6d-af00-4889-979f-19afda6d5eef": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_feng_4.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532573
+    },
+    "65a78fc6-eea0-48c4-8b2f-51a0b7eef6ea": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_jian_1.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532573
+    },
+    "af765357-0812-4fe3-b53b-54f8ac170658": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_jian_2.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532573
+    },
+    "24a68a2a-5b2c-4735-ba6f-d4c75ab9b9f4": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_jian_3.png",
+      "time": 1741240308000,
+      "removeTime": 1741332532573
+    },
+    "fffe5b48-0383-4221-877b-586d0ca44c2c": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tiao_1.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532573
+    },
+    "f3faa72f-abb0-47f5-b1aa-03c6bb8132e2": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tiao_2.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532573
+    },
+    "06f395ea-46f0-499f-96f9-738fa3a63162": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tiao_3.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532573
+    },
+    "064800b1-45cc-4d86-9910-76e4d38755cc": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tiao_4.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532573
+    },
+    "8859de2d-1356-4ea4-906e-4b60e7b831e6": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tiao_5.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532573
+    },
+    "81df74c5-04a1-4cee-ac4e-880f2ab4b3cb": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tiao_7.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532574
+    },
+    "4577fe35-753c-4cf5-96e8-de3fe2b6d3e8": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tiao_8.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532574
+    },
+    "4adc6eb9-9c23-4ab4-b0b9-b3d51e72b2f7": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tiao_9.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532574
+    },
+    "00cada30-9beb-4f2b-a5bd-a87f257676a0": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tong_1.png",
+      "time": 1741240308000,
+      "removeTime": 1741332532574
+    },
+    "96e728a0-c3cf-4ed0-8fa7-bd7321380eea": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tong_2.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532574
+    },
+    "017e58d2-7eba-440e-9d46-e5cdbf2ad3d3": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tong_3.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532574
+    },
+    "5458c89a-11b5-48ab-bb91-c58844797c17": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tong_4.png",
+      "time": 1741240308000,
+      "removeTime": 1741332532574
+    },
+    "d65785e8-06ae-4cc7-b908-035b7d30efbf": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tong_5.png",
+      "time": 1741240308000,
+      "removeTime": 1741332532574
+    },
+    "41d8c589-9d16-4886-a374-f2b1f67fccb0": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tong_6.png",
+      "time": 1741240308000,
+      "removeTime": 1741332532574
+    },
+    "959ee4e2-56a1-42ee-a00d-e23577e18151": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tong_7.png",
+      "time": 1741240308000,
+      "removeTime": 1741332532575
+    },
+    "e47c47ed-eb21-4bdc-8c53-243c1b3b625f": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tong_9.png",
+      "time": 1741240308000,
+      "removeTime": 1741332532575
+    },
+    "13f3fca3-674d-4688-abee-3a613f49e7a4": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_wan_1.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532575
+    },
+    "b50f54f6-2fa0-4e9e-8668-e99492c0cc3b": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_wan_2.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532575
+    },
+    "ea038917-e2da-4137-9d4d-ee8b2e14bfbe": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_wan_3.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532575
+    },
+    "6bbd5994-33ad-49ec-afc8-d84a4ce67c67": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_wan_4.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532575
+    },
+    "6bfe4b3d-f7e8-43e8-b963-8d9a247bc8fb": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_wan_5.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532575
+    },
+    "de18d617-8e16-45d2-82d0-bfa69b52095a": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_wan_6.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532576
+    },
+    "9d3c4703-edea-43d2-9f17-434d4d835767": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_wan_7.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532576
+    },
+    "0ab265b1-a35c-47bc-b8a4-b133afb07fcb": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_wan_8.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532576
+    },
+    "a34412e6-a059-4619-b9c5-24f8635acc7b": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_wan_9.png",
+      "time": 1741240309000,
+      "removeTime": 1741332532576
+    },
+    "2dc1e994-c9fc-471f-8997-fcb78b62bdd4": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tong_8.png",
+      "time": 1741240308000,
+      "removeTime": 1741332532576
+    },
+    "67d505b1-f41d-43ae-a91e-3bf3f59c599b": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\Resource\\Tiles\\mj_tiao_6.png",
+      "time": 1741329162346.3264,
+      "removeTime": 1741332532576
+    },
+    "aaf925dd-7cea-4c85-94c7-1fc362f0d789": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\MahjongTile.ts",
+      "time": 1741333848918.081,
+      "removeTime": 1741342596191
+    },
+    "f6c365fc-80f4-4866-9acf-1e1f43b43de6": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\MajiangTile.ts",
+      "time": 1741333921833.9397,
+      "removeTime": 1741333933291
+    },
+    "5d4aa6f5-1c35-4607-ad72-0039e9013a07": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\extensions",
+      "time": 1741342515149.9622,
+      "removeTime": 1741342518257
+    },
+    "3dc0976a-19c9-4bf8-8ada-0d058dfce295": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\extensions\\mahjong_generators.ts",
+      "time": 1741340306442.3523,
+      "removeTime": 1741342515150
+    },
+    "df7d00c5-9591-43b8-8f0d-ba11eac4338d": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\MahjongGenerator.ts",
+      "time": 1741340670651.1333,
+      "removeTime": 1741342598213
+    },
+    "c81be5af-6a1a-40d9-8300-61e41a2386cf": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resource",
+      "time": 1741332532680.9573,
+      "removeTime": 1741416432168
+    },
+    "122a7e35-1ad3-4ea9-8d9e-0d7f2747b817": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resource\\MiaojiangTexture",
+      "time": 1741332532683.4927,
+      "removeTime": 1741416432169
+    },
+    "bf2490c7-62b6-4467-89a9-23d2071f0083": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles",
+      "time": 1741332532703.8,
+      "removeTime": 1741574937840
+    },
+    "5eabd8ef-b3fc-43cc-801f-9e92972a414a": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resource\\MiaojiangTexture\\miaojiang_bai.png",
+      "time": 1741240835000,
+      "removeTime": 1741416432170
+    },
+    "bc8551dd-e60b-4cb6-b71b-70a2012bccae": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_feng_1.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937847
+    },
+    "8cd90a7c-377c-457c-a661-fbb47ded92fb": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_feng_2.png",
+      "time": 1741240308000,
+      "removeTime": 1741574937852
+    },
+    "d6bdd372-dd8c-4967-bf8f-54b8c11b1f40": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_feng_3.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937858
+    },
+    "0851bcfb-8eb7-46c9-ba0a-52595be5c453": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_feng_4.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937864
+    },
+    "33aa0e0f-4284-42c6-aea0-db42fea6ec4a": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_jian_1.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937869
+    },
+    "8466d49f-e8bd-44dc-ad28-d1148e055d34": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_jian_2.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937875
+    },
+    "cad2ff5e-69b6-4e88-8181-6c0634ffd9d3": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_jian_3.png",
+      "time": 1741240308000,
+      "removeTime": 1741574937880
+    },
+    "8a858ea0-e112-4e92-b19c-ea5966d3957f": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tiao_1.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937886
+    },
+    "59d95576-8972-423c-97bb-f4b97ccc3cb6": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tiao_2.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937891
+    },
+    "4954b7c4-82e7-4e78-969c-9749510ab819": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tiao_3.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937896
+    },
+    "0e989460-2b94-487f-a7c3-763c37447fba": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tiao_4.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937907
+    },
+    "1fd4261c-2ab9-4d09-aa66-e9e70a411824": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tiao_5.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937917
+    },
+    "74a8e2a5-4f71-45ec-b9ed-1007ff8867e2": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tiao_6.png",
+      "time": 1741329162346.3264,
+      "removeTime": 1741574937928
+    },
+    "87518057-b18b-410d-b74e-81e3896b996e": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tiao_7.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937939
+    },
+    "90899e0b-9fb7-43d6-bfe5-76a0c535fad9": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tiao_8.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937954
+    },
+    "70f72659-c0c1-4c30-955f-e1b52ad4aa91": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tiao_9.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937971
+    },
+    "27e8a39b-4903-4367-ad79-ddb50527a1e3": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tong_1.png",
+      "time": 1741240308000,
+      "removeTime": 1741574937985
+    },
+    "0d5fdc70-f99d-4fe2-a548-34f18e50c08b": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tong_2.png",
+      "time": 1741240309000,
+      "removeTime": 1741574937996
+    },
+    "1408dd63-292a-48e1-a240-a0cf7f721aed": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tong_3.png",
+      "time": 1741240309000,
+      "removeTime": 1741574938012
+    },
+    "6313469d-1db8-412d-a9c2-63ecdc986bb4": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tong_4.png",
+      "time": 1741240308000,
+      "removeTime": 1741574938031
+    },
+    "38eec4b2-571a-4f66-a50b-2a4a7b090f8d": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tong_5.png",
+      "time": 1741240308000,
+      "removeTime": 1741574938042
+    },
+    "facb7ac3-3be9-45c3-840b-1dafde6dcd2d": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tong_6.png",
+      "time": 1741240308000,
+      "removeTime": 1741574938052
+    },
+    "10e00120-ea2d-43ad-9d58-a87d6bfcfc03": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tong_7.png",
+      "time": 1741240308000,
+      "removeTime": 1741574938062
+    },
+    "13ec9f3f-6e04-42e5-9438-d686c72806d3": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tong_8.png",
+      "time": 1741240308000,
+      "removeTime": 1741574938074
+    },
+    "8e804f9e-2cbc-4657-b65b-8d19174cc2e9": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_tong_9.png",
+      "time": 1741240308000,
+      "removeTime": 1741574938091
+    },
+    "1a17dcc0-29e0-47fd-9f6f-949f13bd6752": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_wan_1.png",
+      "time": 1741240309000,
+      "removeTime": 1741574938103
+    },
+    "61e1116f-f318-408e-bb9f-5f0ef3e10b69": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_wan_2.png",
+      "time": 1741240309000,
+      "removeTime": 1741574938115
+    },
+    "0898f107-4f05-453f-8d41-fa4b36dd8f29": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_wan_3.png",
+      "time": 1741240309000,
+      "removeTime": 1741574938124
+    },
+    "e58b5400-3bfe-4b43-ae24-3f1d3d3737c3": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_wan_4.png",
+      "time": 1741240309000,
+      "removeTime": 1741574938140
+    },
+    "f038e3fb-64b7-4f57-80ab-c8d5409816b1": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_wan_5.png",
+      "time": 1741240309000,
+      "removeTime": 1741574938149
+    },
+    "bd8279f3-d9b4-4ca6-8544-48b9f43fe793": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_wan_6.png",
+      "time": 1741240309000,
+      "removeTime": 1741574938166
+    },
+    "ae1a801f-7f9d-4742-b5bf-714d78507b2e": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_wan_7.png",
+      "time": 1741240309000,
+      "removeTime": 1741574938175
+    },
+    "51cbea15-c9be-484b-ba98-ffa668ae6157": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_wan_8.png",
+      "time": 1741240309000,
+      "removeTime": 1741574938185
+    },
+    "8f4dbac1-6a88-47c0-8014-c26a70f6e19d": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Tiles\\mj_wan_9.png",
+      "time": 1741240309000,
+      "removeTime": 1741574938199
+    },
+    "4a51433e-2ea7-4924-aa81-3a154b6cb6cc": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\MahjongPerfab.prefab",
+      "time": 1741443216170.0645,
+      "removeTime": 1741594032281
+    },
+    "51373ea2-12b6-45b0-83cc-3c36150ca296": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\CardDeck.ts",
+      "time": 1741442767873.8655,
+      "removeTime": 1741443155982
+    },
+    "b1b3b342-837b-4691-992e-4b6d2fc6acea": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\MahjongGenerator.ts",
+      "time": 1741416290946.231,
+      "removeTime": 1741443999817
+    },
+    "f0765a2b-b534-4988-9a05-c7c513973dc4": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\MahjongGame.ts",
+      "time": 1741423700218.9607,
+      "removeTime": 1741444001957
+    },
+    "1ab4ff0b-9779-49aa-a072-6ae744f69a9d": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\Mahjong.ts",
+      "time": 1741504227683.2202,
+      "removeTime": 1741841923402
+    },
+    "e1ef3bfc-6482-4f07-85b2-5e52c73a1b22": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\MahjongManager.ts",
+      "time": 1741509552523.4624,
+      "removeTime": 1741841920814
+    },
+    "8ca34f59-1027-4221-b298-26f92f81af23": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\output",
+      "time": 1742098149579.7688,
+      "removeTime": 1742099038853
+    },
+    "3f7d0e5e-d74d-4d02-8c4b-230287627c9c": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\output\\combined_mj_tiao_10.png",
+      "time": 1742098980950.26,
+      "removeTime": 1742099198517
+    },
+    "b900915c-936f-49de-a4f6-9b4ef11177ba": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\get-pip.py",
+      "time": 1742097589800.2659,
+      "removeTime": 1742131974987
+    },
+    "f2204c02-7822-4eeb-bbff-3c15dfa5ad20": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\slime.png",
+      "time": 1742359683444.5432,
+      "removeTime": 1742708304014
+    },
+    "f3b9b542-ddf0-4284-9487-8ea1403da479": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\monster",
+      "time": 1742359740333.246,
+      "removeTime": 1742359746802
+    },
+    "a19d647d-e4ac-4b16-853f-b9d0f382f13f": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\greenSlime-01.atlas",
+      "time": 1742529459000,
+      "removeTime": 1742706908376
+    },
+    "3a25c819-0407-4854-a606-b8710a95e504": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\greenSlime-01.json",
+      "time": 1742529459000,
+      "removeTime": 1742706908551
+    },
+    "1322b2da-a5e0-4c22-89aa-a94a7064591c": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\greenSlime-01.png",
+      "time": 1742529459000,
+      "removeTime": 1742706908551
+    },
+    "99bfe592-8fb3-443c-95c9-70885184eca9": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\green-IDLE",
+      "time": 1742706851623.4265,
+      "removeTime": 1742707727252
+    },
+    "c9526f57-fed3-4007-aa6d-1124e89449d8": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\green-IDLE\\greenSlime-01.atlas",
+      "time": 1742529459000,
+      "removeTime": 1742707727253
+    },
+    "055e0a1b-7f2e-4745-aedb-a5105e4dafdb": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\green-IDLE\\greenSlime-01.json",
+      "time": 1742529459000,
+      "removeTime": 1742707727253
+    },
+    "cc972b7c-aa55-4a17-b2fc-84f63f9b64d7": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\green-IDLE\\greenSlime-01.png",
+      "time": 1742529459000,
+      "removeTime": 1742707727253
+    },
+    "76236732-df21-4031-af6a-bfcaa6ddaf86": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\mix-and-match-pro.png",
+      "time": 1742706862000,
+      "removeTime": 1742707814872
+    },
+    "ba1f0cdb-e4a8-4304-8c1f-e3d20cfec29f": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\mix-and-match-pro.json",
+      "time": 1742706861000,
+      "removeTime": 1742707816749
+    },
+    "89f3ac4e-6637-43cf-a9ad-228a38df4dd4": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\mix-and-match-pro.atlas",
+      "time": 1742706862000,
+      "removeTime": 1742707818538
+    },
+    "cbf8f459-0d66-4fe3-8004-3bc78a8ee02c": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\slime-IDLE",
+      "time": 1742707774857.6152,
+      "removeTime": 1742707826253
+    },
+    "0a9c1dc6-a8df-4ab8-aa0c-bd247e7b3ac1": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\slime-IDLE\\greenformal-01.atlas",
+      "time": 1742707654000,
+      "removeTime": 1742707826253
+    },
+    "ddef7426-62a0-4c60-ac54-3406f44d8bcf": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\slime-IDLE\\greenformal-01.json",
+      "time": 1742707654000,
+      "removeTime": 1742707826253
+    },
+    "2897c030-0d17-4570-a74b-4a545b6ea2ce": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\slime-IDLE\\greenformal-01.png",
+      "time": 1742707654000,
+      "removeTime": 1742707826253
+    },
+    "a96406ff-e69a-41fb-b959-23c482d98eed": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\example",
+      "time": 1742707823579.1897,
+      "removeTime": 1742708300098
+    },
+    "9198c01c-26b8-48ac-a352-ca3be3346fdc": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\example\\mix-and-match-pro.atlas",
+      "time": 1742707361000,
+      "removeTime": 1742708300099
+    },
+    "1eb8caff-c390-4794-927d-4015535f8f57": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\example\\mix-and-match-pro.json",
+      "time": 1742707361000,
+      "removeTime": 1742708300099
+    },
+    "7e45c170-ba47-4245-9475-b8262a5b03e9": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\Monster\\example\\mix-and-match-pro.png",
+      "time": 1742707361000,
+      "removeTime": 1742708300099
+    },
+    "a40749e1-8d9d-4608-b04e-bf0dc72d9414": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\GridNode.prefab",
+      "time": 1743057434450.6643,
+      "removeTime": 1743057443890
+    },
+    "74e6556e-a5ae-4e36-82bb-870c5dff4e39": {
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\GridManager.ts",
+      "time": 1743322935779.011,
+      "removeTime": 1743323110186
+    }
+  }
+}
