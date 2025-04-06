@@ -349,3 +349,8 @@
 2025-4-6 12:51:03-debug: asset-db:refresh-all-database (97ms)
 2025-4-6 12:51:03-debug: asset-db:worker-effect-data-processing (2ms)
 2025-4-6 12:51:03-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-4-6 13:22:23-debug: refresh db internal success
+2025-4-6 13:22:23-debug: refresh db assets success
+2025-4-6 13:22:23-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-4-6 13:22:23-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-4-6 13:22:23-debug: asset-db:refresh-all-database (68ms)
