@@ -1,11 +1,22 @@
-2025-4-6 12:50:20 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.5\resources\resources\3d\engine
-2025-4-6 12:50:20 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,custom-pipeline,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
-2025-4-6 12:50:20 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.5\resources\resources\3d\engine\native
-2025-4-6 12:50:21 - log: Request namespace: device-list
-2025-4-6 12:50:29 - log: [Scene] meshopt wasm decoder initialized
-2025-4-6 12:50:29 - log: [Scene] [bullet]:bullet wasm lib loaded.
-2025-4-6 12:50:29 - log: [Scene] [box2d]:box2d wasm lib loaded.
-2025-4-6 12:50:29 - log: [Scene] [PHYSICS]: using builtin.
-2025-4-6 12:50:29 - log: [Scene] Cocos Creator v3.8.5
-2025-4-6 12:50:29 - log: [Scene] Using custom pipeline: Builtin
-2025-4-6 12:50:29 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+4-11-2025 15:46:55 - error: Cannot read properties of null (reading 'result')TypeError: Cannot read properties of null (reading 'result')
+    at Object.queryAllInformation (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/information/dist/browser/index.ccc:1:1840)
+    at async initInformationCache (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/information/dist/browser/index.ccc:1:516)
+    at async Package.load (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/information/dist/browser/index.ccc:1:195)
+    at async Package.execLifeFunc (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/package/dist/browser/package.ccc:1:1200)
+    at async Package.enable (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/package/dist/browser/package.ccc:1:3478)
+    at async PackageManager.enable (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/package/dist/browser/index.js:1:1755)
+4-11-2025 15:46:55 - error: Init information cache failed!
+4-11-2025 15:46:57 - log: Load engine in /Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine
+4-11-2025 15:46:58 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,custom-pipeline,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
+4-11-2025 15:46:58 - log: Register native engine in /Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+4-11-2025 15:46:58 - log: Request namespace: device-list
+4-11-2025 15:47:29 - log: [Scene] meshopt wasm decoder initialized
+4-11-2025 15:47:30 - log: [Scene] [box2d]:box2d wasm lib loaded.
+4-11-2025 15:47:30 - log: [Scene] [bullet]:bullet wasm lib loaded.
+4-11-2025 15:47:30 - log: [Scene] [PHYSICS]: using builtin.
+4-11-2025 15:47:30 - log: [Scene] Cocos Creator v3.8.5
+4-11-2025 15:47:30 - log: [Scene] Using custom pipeline: Builtin
+4-11-2025 15:47:30 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+4-11-2025 15:47:32 - warn: [Scene] Open the previous scene failed: 7319cee2-ed1c-451c-b7d4-4d1f84c46d5d can not be found.Error: [Scene] Open the previous scene failed: 7319cee2-ed1c-451c-b7d4-4d1f84c46d5d can not be found.
+    at console.warn (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@sentry/src/instrument/console.ts:40:20)
+    at SceneFacadeManager.openScene (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:6909)
