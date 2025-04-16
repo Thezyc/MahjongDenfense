@@ -1901,6 +1901,7 @@
     "value": {
       "depends": [
         "7319cee2-ed1c-451c-b7d4-4d1f84c46d5d",
+        "5eabd8ef-b3fc-43cc-801f-9e92972a414a@f9941",
         "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
         "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
         "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
@@ -1939,7 +1940,6 @@
         "8c6be8f1-5493-48b2-a12d-e6fac4eea1d9@f9941",
         "a0b81fec-1a31-40f0-81a3-410b242f1e32@f9941",
         "401d9df4-2171-49ba-aff2-67cd8dfb9376@f9941",
-        "b185b321-ccbd-4bc2-bdbe-0b7a860d5958",
         "d3334fb7-88cc-44cb-849d-30be5602ab09"
       ],
       "dependScripts": [
@@ -3169,12 +3169,7 @@
   },
   "a40749e1-8d9d-4608-b04e-bf0dc72d9414": {
     "url": "db://assets/prefab/gridPrefab.prefab",
-    "value": {
-      "depends": [
-        "fc03ff29-7aa4-4955-92bf-e8fd3041b62a@f9941"
-      ],
-      "dependScripts": []
-    },
+    "value": {},
     "versionCode": 1
   },
   "74e6556e-a5ae-4e36-82bb-870c5dff4e39": {
@@ -3208,13 +3203,23 @@
     "versionCode": 1
   },
   "d3334fb7-88cc-44cb-849d-30be5602ab09": {
-    "url": "db://assets/prefab/Slot.prefab",
+    "url": "db://assets/prefab/Grid.prefab",
     "value": {
       "depends": [
         "d1378699-3914-473b-9980-6701ac17c09f@f9941"
       ],
       "dependScripts": []
     },
+    "versionCode": 1
+  },
+  "44834767-acc4-4150-981f-37e4ecbda689": {
+    "url": "db://assets/MahjongMaterial.mtl",
+    "value": {},
+    "versionCode": 1
+  },
+  "e1e71e43-8303-4219-995d-aac6fd0c7ad2": {
+    "url": "db://assets/scripts/folder",
+    "value": {},
     "versionCode": 1
   }
 }

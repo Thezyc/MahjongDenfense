@@ -634,10 +634,6 @@
     "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\gridPrefab.prefab.meta": {
       "time": 1743057443894.5076
     },
-    "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\gridPrefab.prefab": {
-      "time": 1743225325460.0813,
-      "uuid": "a40749e1-8d9d-4608-b04e-bf0dc72d9414"
-    },
     "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\resources\\emptyTile.png.meta": {
       "time": 1743308848256.1013
     },
@@ -653,7 +649,7 @@
       "uuid": "d3334fb7-88cc-44cb-849d-30be5602ab09"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab": {
-      "time": 1743308875866.9712,
+      "time": 1744388140434.5735,
       "uuid": "d840cbe0-f36e-4020-99f9-c4aa6a67feac"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources": {
@@ -661,11 +657,11 @@
       "uuid": "c81be5af-6a1a-40d9-8300-61e41a2386cf"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scene": {
-      "time": 1742095564369.014,
+      "time": 1744004459965.7656,
       "uuid": "35576e0d-6d38-43f8-bd98-4e71832efd34"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts": {
-      "time": 1743323110186.8606,
+      "time": 1744374700278.5322,
       "uuid": "aa6267c1-7dea-4db4-b308-1d988960d845"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles": {
@@ -689,19 +685,19 @@
       "uuid": "06ab209d-8e79-4eba-8183-e3198f14c9fc"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\GameManager.ts": {
-      "time": 1743348744123.0881,
+      "time": 1744709357519.982,
       "uuid": "54f66159-a45f-4e6e-b540-817e74be2d16"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\HuPaiChecker.ts": {
-      "time": 1742359608543.6187,
+      "time": 1743921129451.2341,
       "uuid": "6e398af3-ac80-416d-9924-305e0fead38e"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\MahjongTile.ts": {
-      "time": 1743496078828.9602,
+      "time": 1744707597974.452,
       "uuid": "246fe37d-7d01-49a1-88d2-e59ffd514916"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\Monster.ts": {
-      "time": 1743349258252.855,
+      "time": 1743921131034.8943,
       "uuid": "78fec37f-bf71-4aa1-8aaf-5fd8a53e119f"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab.meta": {
@@ -743,21 +739,13 @@
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\Monster.ts.meta": {
       "time": 1742552799639.542
     },
-    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\gridPrefab.prefab": {
-      "time": 1743225325460.0813,
-      "uuid": "a40749e1-8d9d-4608-b04e-bf0dc72d9414"
-    },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\MahjongTile.prefab": {
-      "time": 1743393272743.7205,
+      "time": 1744709672600.5723,
       "uuid": "01599341-7186-4f40-9b9e-7ad7085ba29c"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\Monster.prefab": {
       "time": 1742709104652.4473,
       "uuid": "b185b321-ccbd-4bc2-bdbe-0b7a860d5958"
-    },
-    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\Slot.prefab": {
-      "time": 1743323571407.4106,
-      "uuid": "d3334fb7-88cc-44cb-849d-30be5602ab09"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\background.png": {
       "time": 1741591836301.8625,
@@ -772,7 +760,7 @@
       "uuid": "d1378699-3914-473b-9980-6701ac17c09f"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scene\\MainScene.scene": {
-      "time": 1743350240376.5134,
+      "time": 1744816913412.9292,
       "uuid": "7319cee2-ed1c-451c-b7d4-4d1f84c46d5d"
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\MahjongTiles\\mj_feng_1.png": {
@@ -1066,14 +1054,8 @@
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\MahjongTile.prefab.meta": {
       "time": 1741513585078.5618
     },
-    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\Slot.prefab.meta": {
-      "time": 1743308875886.3503
-    },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\Monster.prefab.meta": {
       "time": 1742557895644.361
-    },
-    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\gridPrefab.prefab.meta": {
-      "time": 1743057443894.5076
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\combine_tiles.py.meta": {
       "time": 1742099007910.2085
@@ -1302,6 +1284,13 @@
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\resources\\Monster\\slime-IDLE\\greenformal-01.json.meta": {
       "time": 1742708255562.494
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\Grid.prefab.meta": {
+      "time": 1744388140438.979
+    },
+    "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\Grid.prefab": {
+      "time": 1744388140437.9822,
+      "uuid": "d3334fb7-88cc-44cb-849d-30be5602ab09"
     }
   },
   "missing": {
@@ -1916,14 +1905,29 @@
       "removeTime": 1742708300099
     },
     "a40749e1-8d9d-4608-b04e-bf0dc72d9414": {
-      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\GridNode.prefab",
-      "time": 1743057434450.6643,
-      "removeTime": 1743057443890
+      "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\prefab\\gridPrefab.prefab",
+      "time": 1743225325460.0813,
+      "removeTime": 1744279522499
     },
     "74e6556e-a5ae-4e36-82bb-870c5dff4e39": {
       "path": "C:\\Users\\Administrator\\MiaoMiaoMaJiang\\assets\\scripts\\GridManager.ts",
       "time": 1743322935779.011,
       "removeTime": 1743323110186
+    },
+    "d3334fb7-88cc-44cb-849d-30be5602ab09": {
+      "path": "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\Slot.prefab",
+      "time": 1744388139907.6753,
+      "removeTime": 1744388140435
+    },
+    "44834767-acc4-4150-981f-37e4ecbda689": {
+      "path": "C:\\Users\\Administrator\\MahjongDenfense\\assets\\MahjongMaterial.mtl",
+      "time": 1740493930256.0527,
+      "removeTime": 1744094438784
+    },
+    "e1e71e43-8303-4219-995d-aac6fd0c7ad2": {
+      "path": "C:\\Users\\Administrator\\MahjongDenfense\\assets\\scripts\\folder",
+      "time": 1744374696648.8557,
+      "removeTime": 1744374700278
     }
   }
 }

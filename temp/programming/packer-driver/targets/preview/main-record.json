@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 5847.082,
+      "mTimestamp": 8865.4853,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -430,7 +430,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 8479.0707,
+      "mTimestamp": 11576.1946,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -1211,7 +1211,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1743915020701,
+      "mTimestamp": 1744773823147,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",
@@ -2391,7 +2391,7 @@
     },
     "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/GameManager.ts": {
       "mTimestamp": {
-        "mtime": 1743348744123.0881,
+        "mtime": 1744709357519.982,
         "uuid": "54f66159-a45f-4e6e-b540-817e74be2d16"
       },
       "chunkId": "64c5b516da7e660890ea42083905e616b3fc72fc",
@@ -2411,11 +2411,11 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 148
+              "column": 114
             },
             "end": {
               "line": 1,
-              "column": 152
+              "column": 118
             }
           }
         },
@@ -2430,20 +2430,6 @@
             "end": {
               "line": 2,
               "column": 43
-            }
-          }
-        },
-        {
-          "value": "./HuPaiChecker",
-          "resolved": "__unresolved_2",
-          "loc": {
-            "start": {
-              "line": 3,
-              "column": 29
-            },
-            "end": {
-              "line": 3,
-              "column": 45
             }
           }
         }
@@ -2484,19 +2470,12 @@
             "url": "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/MahjongTile.ts"
           },
           "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/HuPaiChecker.ts"
-          },
-          "messages": []
         }
       ]
     },
     "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/HuPaiChecker.ts": {
       "mTimestamp": {
-        "mtime": 1742359608543.6187,
+        "mtime": 1743921129451.2341,
         "uuid": "6e398af3-ac80-416d-9924-305e0fead38e"
       },
       "chunkId": "8f925432070582f37856a05c2a346e295c2748c7",
@@ -2518,7 +2497,7 @@
     },
     "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/MahjongTile.ts": {
       "mTimestamp": {
-        "mtime": 1743496078828.9602,
+        "mtime": 1744707597974.452,
         "uuid": "246fe37d-7d01-49a1-88d2-e59ffd514916"
       },
       "chunkId": "0636b8a8b1a5f379e9ad58318585cefbe71ab0d2",
@@ -2534,11 +2513,11 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 103
+              "column": 99
             },
             "end": {
               "line": 1,
-              "column": 107
+              "column": 103
             }
           }
         }
@@ -2570,7 +2549,7 @@
     },
     "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/Monster.ts": {
       "mTimestamp": {
-        "mtime": 1743349258252.855,
+        "mtime": 1743921131034.8943,
         "uuid": "78fec37f-bf71-4aa1-8aaf-5fd8a53e119f"
       },
       "chunkId": "e0fe8cf2cd729475a6feb1df2cac400e4aa257a9",
