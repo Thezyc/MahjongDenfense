@@ -1,7 +1,7 @@
 System.register(["cc"], function (_export, _context) {
   "use strict";
 
-  var _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, Component, Vec3, log, Input, UITransform, find, Vec2, _dec, _class, _crd, ccclass, property, MahjongTile;
+  var _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, Component, Vec3, log, Input, find, _dec, _class, _crd, ccclass, property, MahjongTile;
 
   return {
     setters: [function (_cc) {
@@ -13,9 +13,7 @@ System.register(["cc"], function (_export, _context) {
       Vec3 = _cc.Vec3;
       log = _cc.log;
       Input = _cc.Input;
-      UITransform = _cc.UITransform;
       find = _cc.find;
-      Vec2 = _cc.Vec2;
     }],
     execute: function () {
       _crd = true;
@@ -82,51 +80,9 @@ System.register(["cc"], function (_export, _context) {
         onMouseUp(event) {
           if (!this.draggedTile) return;
           var targetPos = event.getUILocation();
-          var targetGridNode = null; // 查找鼠标释放位置所在的格子
+          var targetGridNode = null; // 判断鼠标释放位置的情况，有格子则放入，无格子则返回原点
 
-          for (var gridNode of this.gridNodes) {
-            var gridTransform = gridNode.getComponent(UITransform);
-            log(gridNode.name + '包围盒: ' + gridTransform.getBoundingBoxToWorld().toString());
-
-            if (gridTransform) {
-              var boundingBox = gridTransform.getBoundingBoxToWorld();
-
-              if (boundingBox.contains(new Vec2(targetPos.x, targetPos.y))) {
-                targetGridNode = gridNode;
-                break;
-              }
-            }
-          }
-
-          if (targetGridNode) {
-            var gameManager = this.gameManager.getComponent('GameManager');
-            var gridNodeMap = gameManager.gridNodeMap;
-            log("\u9EBB\u5C06\u91CA\u653E\u4F4D\u7F6E: " + targetGridNode.name);
-
-            if (gridNodeMap.has(targetGridNode)) {
-              var targetTile = gridNodeMap.get(targetGridNode);
-
-              if (targetTile === this.draggedTile) {
-                log('麻将释放: Same tile selected, no swap performed.');
-                this.draggedTile.setWorldPosition(this.originalPosition);
-              } else {
-                var tempPosition = targetTile.getWorldPosition().clone();
-                targetTile.setWorldPosition(this.draggedTile.getWorldPosition());
-                this.draggedTile.setWorldPosition(tempPosition);
-                gridNodeMap.set(targetGridNode, this.draggedTile);
-                gridNodeMap.set(this.node.parent, targetTile);
-                log("\u9EBB\u5C06\u91CA\u653E\uFF0C\u4EA4\u6362\u683C\u5B50: Swapped with tile at grid " + targetGridNode.name);
-              }
-            } else {
-              this.draggedTile.setWorldPosition(targetGridNode.getWorldPosition());
-              gridNodeMap.delete(this.node.parent);
-              gridNodeMap.set(targetGridNode, this.draggedTile);
-              log("MahjongTile onMouseUp: Moved to empty grid " + targetGridNode.name);
-            }
-          } else {
-            this.draggedTile.setWorldPosition(this.originalPosition);
-            log("MahjongTile onMouseUp: Returned to original position: " + this.originalPosition.toString());
-          }
+          if (targetGridNode) {}
 
           this.isDragging = false;
           this.draggedTile = null;

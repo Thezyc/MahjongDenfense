@@ -5,17 +5,17 @@
     "module": "ES2015",
     "strict": true,
     "types": [
-      "./temp/declarations/cc.custom-macro",
       "./temp/declarations/jsb",
+      "./temp/declarations/cc.custom-macro",
       "./temp/declarations/cc",
       "./temp/declarations/cc.env"
     ],
     "paths": {
       "db://internal/*": [
-        "/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
+        "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.5\\resources\\resources\\3d\\engine\\editor\\assets\\*"
       ],
       "db://assets/*": [
-        "/Users/hcm-b0034/Documents/MahjongDenfense/assets/*"
+        "C:\\Users\\Administrator\\MahjongDenfense\\assets\\*"
       ]
     },
     "experimentalDecorators": true,
