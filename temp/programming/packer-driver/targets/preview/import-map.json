@@ -9,7 +9,6 @@
     "file:///C:/ProgramData/cocos/editors/Creator/3.8.5/resources/resources/3d/engine/editor/assets/default_renderpipeline/builtin-pipeline.ts": "./chunks/f3/f3f54528bfcd10077eb00a2121ed5d1424412e76.js",
     "file:///C:/ProgramData/cocos/editors/Creator/3.8.5/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/9c/9c012447265e6d10c1112a3c5718a72269253753.js",
     "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/GameManager.ts": "./chunks/64/64c5b516da7e660890ea42083905e616b3fc72fc.js",
-    "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/HuPaiChecker.ts": "./chunks/8f/8f925432070582f37856a05c2a346e295c2748c7.js",
     "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/MahjongTile.ts": "./chunks/06/0636b8a8b1a5f379e9ad58318585cefbe71ab0d2.js",
     "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/Monster.ts": "./chunks/e0/e0fe8cf2cd729475a6feb1df2cac400e4aa257a9.js"
   },
@@ -40,9 +39,6 @@
       "__unresolved_9": "cce:/internal/x/cc-fu/intersection-2d"
     },
     "./chunks/06/0636b8a8b1a5f379e9ad58318585cefbe71ab0d2.js": {
-      "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
-    },
-    "./chunks/8f/8f925432070582f37856a05c2a346e295c2748c7.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
     "./chunks/64/64c5b516da7e660890ea42083905e616b3fc72fc.js": {
@@ -86,9 +82,8 @@
       "__unresolved_4": "./chunks/f3/f3f54528bfcd10077eb00a2121ed5d1424412e76.js",
       "__unresolved_5": "./chunks/9c/9c012447265e6d10c1112a3c5718a72269253753.js",
       "__unresolved_6": "./chunks/64/64c5b516da7e660890ea42083905e616b3fc72fc.js",
-      "__unresolved_7": "./chunks/8f/8f925432070582f37856a05c2a346e295c2748c7.js",
-      "__unresolved_8": "./chunks/06/0636b8a8b1a5f379e9ad58318585cefbe71ab0d2.js",
-      "__unresolved_9": "./chunks/e0/e0fe8cf2cd729475a6feb1df2cac400e4aa257a9.js"
+      "__unresolved_7": "./chunks/06/0636b8a8b1a5f379e9ad58318585cefbe71ab0d2.js",
+      "__unresolved_8": "./chunks/e0/e0fe8cf2cd729475a6feb1df2cac400e4aa257a9.js"
     }
   }
 }

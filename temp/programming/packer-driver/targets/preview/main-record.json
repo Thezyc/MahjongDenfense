@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 8865.4853,
+      "mTimestamp": 10814.8408,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -430,7 +430,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 11576.1946,
+      "mTimestamp": 13659.5143,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -532,7 +532,7 @@
           }
         },
         {
-          "value": "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/HuPaiChecker.ts",
+          "value": "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/MahjongTile.ts",
           "resolved": "__unresolved_7",
           "loc": {
             "start": {
@@ -541,12 +541,12 @@
             },
             "end": {
               "line": 11,
-              "column": 86
+              "column": 85
             }
           }
         },
         {
-          "value": "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/MahjongTile.ts",
+          "value": "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/Monster.ts",
           "resolved": "__unresolved_8",
           "loc": {
             "start": {
@@ -555,20 +555,6 @@
             },
             "end": {
               "line": 12,
-              "column": 85
-            }
-          }
-        },
-        {
-          "value": "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/Monster.ts",
-          "resolved": "__unresolved_9",
-          "loc": {
-            "start": {
-              "line": 13,
-              "column": 7
-            },
-            "end": {
-              "line": 13,
               "column": 81
             }
           }
@@ -622,13 +608,6 @@
           "resolved": {
             "type": "module",
             "url": "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/GameManager.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/HuPaiChecker.ts"
           },
           "messages": []
         },
@@ -1210,715 +1189,12 @@
         }
       ]
     },
-    "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1744773823147,
-      "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
-      "imports": [],
-      "type": "esm",
-      "resolutions": []
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/Scripts/MahjongGame.js.ts": {
+    "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/DeckManager.ts": {
       "mTimestamp": {
-        "mtime": 1741190357860.244,
-        "uuid": "dbd2b86c-56cb-40cb-9802-4a2cb95c398b"
+        "mtime": 1745226585700.9834,
+        "uuid": "3fb731de-7c7c-4648-8526-012fe2a16cf4"
       },
-      "chunkId": "10130c23360039aeae384c969cb6138013255d15",
-      "imports": [
-        {
-          "value": "cc"
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/Scripts/MJsetGenerator.ts": {
-      "mTimestamp": {
-        "mtime": 1741329492342.361,
-        "uuid": "d2397d65-f43f-49ac-bd33-78c908fcbe71"
-      },
-      "chunkId": "43f81428f42ade74deae3f5f379a77aacc60a71c",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 44
-            },
-            "end": {
-              "line": 1,
-              "column": 48
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/Scripts/MJsetGenerator.ts.ts": {
-      "mTimestamp": {
-        "mtime": 1741329492342.361,
-        "uuid": "d2397d65-f43f-49ac-bd33-78c908fcbe71"
-      },
-      "chunkId": "af94ebdb5fb4ccac6ed160ae04ac069478932054",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 44
-            },
-            "end": {
-              "line": 1,
-              "column": 48
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/Scripts/MahjongGame.ts": {
-      "mTimestamp": {
-        "mtime": 1741190357860.244,
-        "uuid": "dbd2b86c-56cb-40cb-9802-4a2cb95c398b"
-      },
-      "chunkId": "f504ca79baf4b3371d052da6f475ba32f8f5b9ce",
-      "imports": [
-        {
-          "value": "cc"
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/Scripts/SetGenerator.ts": {
-      "mTimestamp": {
-        "mtime": 1741329492342.361,
-        "uuid": "d2397d65-f43f-49ac-bd33-78c908fcbe71"
-      },
-      "chunkId": "6cf6d03b40108b5bd6c882b91e29954ca39b850c",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 44
-            },
-            "end": {
-              "line": 1,
-              "column": 48
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/MahjongGame.ts": {
-      "mTimestamp": {
-        "mtime": 1741423700218.9607,
-        "uuid": "f0765a2b-b534-4988-9a05-c7c513973dc4"
-      },
-      "chunkId": "42dd13850c3b1c648cfcd8db2d13b456be095bce",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 86
-            },
-            "end": {
-              "line": 1,
-              "column": 90
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/SetGenerator.ts": {
-      "mTimestamp": {
-        "mtime": 1741340788300.302,
-        "uuid": "d2397d65-f43f-49ac-bd33-78c908fcbe71"
-      },
-      "chunkId": "29431a633a3fcf36aa7d35c6b2298caa72a49bea",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 76
-            },
-            "end": {
-              "line": 1,
-              "column": 80
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/MajiangTile.ts": {
-      "mTimestamp": {
-        "mtime": 1741333921833.9397,
-        "uuid": "f6c365fc-80f4-4866-9acf-1e1f43b43de6"
-      },
-      "chunkId": "240989b84351b31b74310d1f2608817be71b3f0c",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 59
-            },
-            "end": {
-              "line": 1,
-              "column": 63
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/MahjongTile.ts": {
-      "mTimestamp": {
-        "mtime": 1743496078828.9602,
-        "uuid": "246fe37d-7d01-49a1-88d2-e59ffd514916"
-      },
-      "chunkId": "b7e340e7c1515d0cf28c1bfa8e44ce0cb3f5107b",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 103
-            },
-            "end": {
-              "line": 1,
-              "column": 107
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/extension/mahjong_generators.ts": {
-      "mTimestamp": {
-        "mtime": 1741335102748.6487,
-        "uuid": "3dc0976a-19c9-4bf8-8ada-0d058dfce295"
-      },
-      "chunkId": "dcd5a2fa5e7fa30fddd056254e39a109d13cbe8f",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc/env",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 23
-            },
-            "end": {
-              "line": 1,
-              "column": 31
-            }
-          }
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 3,
-              "column": 69
-            },
-            "end": {
-              "line": 3,
-              "column": 73
-            }
-          }
-        },
-        {
-          "value": "editor-extends",
-          "loc": {
-            "start": {
-              "line": 4,
-              "column": 31
-            },
-            "end": {
-              "line": 4,
-              "column": 47
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cc/env"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "error",
-            "text": "Error: Module \"editor-extends\" not found for file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/extension/mahjong_generators.ts"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/extensions/mahjong_generators.ts": {
-      "mTimestamp": {
-        "mtime": 1741340306442.3523,
-        "uuid": "3dc0976a-19c9-4bf8-8ada-0d058dfce295"
-      },
-      "chunkId": "9c2214af850105ad641f75861b8f14f1dcbf6dec",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc/env",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 23
-            },
-            "end": {
-              "line": 1,
-              "column": 31
-            }
-          }
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 3,
-              "column": 69
-            },
-            "end": {
-              "line": 3,
-              "column": 73
-            }
-          }
-        },
-        {
-          "value": "editor-extends",
-          "loc": {
-            "start": {
-              "line": 4,
-              "column": 31
-            },
-            "end": {
-              "line": 4,
-              "column": 47
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "external",
-            "specifierOrURL": "cc/env"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "error",
-            "text": "Error: Module \"editor-extends\" not found for file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/extensions/mahjong_generators.ts"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/NewComponent.ts": {
-      "mTimestamp": {
-        "mtime": 1741340670651.1333,
-        "uuid": "df7d00c5-9591-43b8-8f0d-ba11eac4338d"
-      },
-      "chunkId": "9de575a0af8d47210e0826e7e6b2fc91ae6f2501",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 44
-            },
-            "end": {
-              "line": 1,
-              "column": 48
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/MahjongGenerator.ts": {
-      "mTimestamp": {
-        "mtime": 1741416290946.231,
-        "uuid": "b1b3b342-837b-4691-992e-4b6d2fc6acea"
-      },
-      "chunkId": "bcc46fd2f40b424119f58f7b94f521b8e99d969f",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 76
-            },
-            "end": {
-              "line": 1,
-              "column": 80
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/Majiang.ts": {
-      "mTimestamp": {
-        "mtime": 1741503774132.4126,
-        "uuid": "1ab4ff0b-9779-49aa-a072-6ae744f69a9d"
-      },
-      "chunkId": "6e9f9be34231a19fc025d53fb07749167415ccf2",
+      "chunkId": "51c4a6e4cc87a196d82b20f7adc94be0240d9a2b",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -1935,261 +1211,16 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 70
+              "column": 108
             },
             "end": {
               "line": 1,
-              "column": 74
+              "column": 112
             }
           }
         },
         {
-          "value": "cc"
-        },
-        {
-          "value": "./MahjongManager",
-          "resolved": "__unresolved_1",
-          "loc": {
-            "start": {
-              "line": 4,
-              "column": 31
-            },
-            "end": {
-              "line": 4,
-              "column": 49
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/code-quality/cr.mjs"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/MahjongManager.ts"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/CardDeck.ts": {
-      "mTimestamp": {
-        "mtime": 1741442767873.8655,
-        "uuid": "51373ea2-12b6-45b0-83cc-3c36150ca296"
-      },
-      "chunkId": "ff61b20645c2f7403b84d1f89f39e1d40c8afdc3",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 44
-            },
-            "end": {
-              "line": 1,
-              "column": 48
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/MahjongManager.ts": {
-      "erroneous": true,
-      "mTimestamp": 0,
-      "chunkId": "583a1258e27a803732f1082e22cd5123895cf693"
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/Mahjong.ts": {
-      "mTimestamp": {
-        "mtime": 1741504227683.2202,
-        "uuid": "1ab4ff0b-9779-49aa-a072-6ae744f69a9d"
-      },
-      "chunkId": "13f25da1cb156b7b35c662b9606a0729d71a4b7c",
-      "imports": [
-        {
-          "value": "cce:/internal/code-quality/cr.mjs",
-          "resolved": "__unresolved_0"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 70
-            },
-            "end": {
-              "line": 1,
-              "column": 74
-            }
-          }
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "./MahjongManager",
-          "resolved": "__unresolved_1",
-          "loc": {
-            "start": {
-              "line": 4,
-              "column": 31
-            },
-            "end": {
-              "line": 4,
-              "column": 49
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/code-quality/cr.mjs"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/MahjongManager.ts"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/GameManager.ts": {
-      "mTimestamp": {
-        "mtime": 1743348744123.0881,
-        "uuid": "54f66159-a45f-4e6e-b540-817e74be2d16"
-      },
-      "chunkId": "c18c8ea53ad0bc3b1c4bf4231368abf7add54181",
-      "imports": [
-        {
-          "value": "cce:/internal/code-quality/cr.mjs",
-          "resolved": "__unresolved_0"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 148
-            },
-            "end": {
-              "line": 1,
-              "column": 152
-            }
-          }
-        },
-        {
-          "value": "./MahjongTile",
+          "value": "./TileManager",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -2201,20 +1232,6 @@
               "column": 43
             }
           }
-        },
-        {
-          "value": "./HuPaiChecker",
-          "resolved": "__unresolved_2",
-          "loc": {
-            "start": {
-              "line": 3,
-              "column": 29
-            },
-            "end": {
-              "line": 3,
-              "column": 45
-            }
-          }
         }
       ],
       "type": "esm",
@@ -2250,47 +1267,18 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/MahjongTile.ts"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/HuPaiChecker.ts"
+            "url": "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/TileManager.ts"
           },
           "messages": []
         }
       ]
     },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/HuPaiChecker.ts": {
+    "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/GridManager.ts": {
       "mTimestamp": {
-        "mtime": 1742359608543.6187,
-        "uuid": "6e398af3-ac80-416d-9924-305e0fead38e"
+        "mtime": 1745213960136.0022,
+        "uuid": "cb987d41-fb68-44c6-8991-ed5d57073704"
       },
-      "chunkId": "60c289e7dfe97bf1ac986e3abfdd76797caa74f5",
-      "imports": [
-        {
-          "value": "cc"
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/Monster.ts": {
-      "mTimestamp": {
-        "mtime": 1743349258252.855,
-        "uuid": "78fec37f-bf71-4aa1-8aaf-5fd8a53e119f"
-      },
-      "chunkId": "1b8eb76af9bccc464889c32af23ef5e3880097ad",
+      "chunkId": "ef903743b897cacb169ae7e7dd315d4cc6eb2bce",
       "imports": [
         {
           "value": "cc"
@@ -2303,11 +1291,11 @@
           "loc": {
             "start": {
               "line": 2,
-              "column": 32
+              "column": 69
             },
             "end": {
               "line": 2,
-              "column": 36
+              "column": 73
             }
           }
         }
@@ -2337,12 +1325,12 @@
         }
       ]
     },
-    "file:///C:/Users/Administrator/MiaoMiaoMaJiang/assets/scripts/GridManager.ts": {
+    "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/TileManager.ts": {
       "mTimestamp": {
-        "mtime": 1743322935779.011,
-        "uuid": "74e6556e-a5ae-4e36-82bb-870c5dff4e39"
+        "mtime": 1745226598063.438,
+        "uuid": "ea85a997-50c0-437b-a861-f5125431b4dd"
       },
-      "chunkId": "e6e3a071e59271a5acd1dc2bd91c3e4d076a8139",
+      "chunkId": "f4804ca4dda2fa3f7d50e122afe71c412587d96e",
       "imports": [
         {
           "value": "cc"
@@ -2355,11 +1343,11 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 84
+              "column": 70
             },
             "end": {
               "line": 1,
-              "column": 88
+              "column": 74
             }
           }
         }
@@ -2388,10 +1376,17 @@
           "messages": []
         }
       ]
+    },
+    "cce:/internal/code-quality/cr.mjs": {
+      "mTimestamp": 1745383956391,
+      "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
     },
     "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/GameManager.ts": {
       "mTimestamp": {
-        "mtime": 1744709357519.982,
+        "mtime": 1745314207896.7576,
         "uuid": "54f66159-a45f-4e6e-b540-817e74be2d16"
       },
       "chunkId": "64c5b516da7e660890ea42083905e616b3fc72fc",
@@ -2475,7 +1470,7 @@
     },
     "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/HuPaiChecker.ts": {
       "mTimestamp": {
-        "mtime": 1743921129451.2341,
+        "mtime": 1745308513215.2715,
         "uuid": "6e398af3-ac80-416d-9924-305e0fead38e"
       },
       "chunkId": "8f925432070582f37856a05c2a346e295c2748c7",
@@ -2497,7 +1492,7 @@
     },
     "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/MahjongTile.ts": {
       "mTimestamp": {
-        "mtime": 1744707597974.452,
+        "mtime": 1745314211405.8606,
         "uuid": "246fe37d-7d01-49a1-88d2-e59ffd514916"
       },
       "chunkId": "0636b8a8b1a5f379e9ad58318585cefbe71ab0d2",
@@ -2549,7 +1544,7 @@
     },
     "file:///C:/Users/Administrator/MahjongDenfense/assets/scripts/Monster.ts": {
       "mTimestamp": {
-        "mtime": 1743921131034.8943,
+        "mtime": 1745308513248.6812,
         "uuid": "78fec37f-bf71-4aa1-8aaf-5fd8a53e119f"
       },
       "chunkId": "e0fe8cf2cd729475a6feb1df2cac400e4aa257a9",

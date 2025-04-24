@@ -12,10 +12,10 @@
     ],
     "paths": {
       "db://internal/*": [
-        "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.5\\resources\\resources\\3d\\engine\\editor\\assets\\*"
+        "/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
       ],
       "db://assets/*": [
-        "C:\\Users\\Administrator\\MahjongDenfense\\assets\\*"
+        "/Users/hcm-b0034/Documents/MahjongDenfense/assets/*"
       ]
     },
     "experimentalDecorators": true,
