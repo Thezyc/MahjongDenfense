@@ -649,6 +649,643 @@
     },
     "C:\\Users\\Administrator\\MahjongDenfense\\assets\\prefab\\Monster.prefab.meta": {
       "time": 1745308521936.921
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/prefab": {
+      "time": 1745892785955.9387,
+      "uuid": "d840cbe0-f36e-4020-99f9-c4aa6a67feac"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources": {
+      "time": 1745892614788.165,
+      "uuid": "c81be5af-6a1a-40d9-8300-61e41a2386cf"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/scene": {
+      "time": 1745892785956.4158,
+      "uuid": "35576e0d-6d38-43f8-bd98-4e71832efd34"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/scripts": {
+      "time": 1745892785958.2144,
+      "uuid": "aa6267c1-7dea-4db4-b308-1d988960d845"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles": {
+      "time": 1744434236288.9604,
+      "uuid": "bf2490c7-62b6-4467-89a9-23d2071f0083"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MiaojiangTexture": {
+      "time": 1744434236290.7605,
+      "uuid": "122a7e35-1ad3-4ea9-8d9e-0d7f2747b817"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/Monster": {
+      "time": 1744434236291.417,
+      "uuid": "f3b9b542-ddf0-4284-9487-8ea1403da479"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output": {
+      "time": 1744434236340.7263,
+      "uuid": "30b41522-c834-4b20-905c-a160d2d52b14"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/Monster/slime-IDLE": {
+      "time": 1744863886925.8987,
+      "uuid": "06ab209d-8e79-4eba-8183-e3198f14c9fc"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/scripts/GameManager.ts": {
+      "time": 1745892785958.103,
+      "uuid": "54f66159-a45f-4e6e-b540-817e74be2d16"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/scripts/MahjongTile.ts": {
+      "time": 1745898158602.0789,
+      "uuid": "246fe37d-7d01-49a1-88d2-e59ffd514916"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/scripts/Monster.ts": {
+      "time": 1744434236347.1848,
+      "uuid": "78fec37f-bf71-4aa1-8aaf-5fd8a53e119f"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/prefab.meta": {
+      "time": 1744434236269.6355
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources.meta": {
+      "time": 1744434236271.174
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/scene.meta": {
+      "time": 1744434236340.905
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/scripts.meta": {
+      "time": 1744434236343.17
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles.meta": {
+      "time": 1744434236271.3484
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MiaojiangTexture.meta": {
+      "time": 1744434236289.3145
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/Monster.meta": {
+      "time": 1744434236290.896
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output.meta": {
+      "time": 1744434236306.2363
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/Monster/slime-IDLE.meta": {
+      "time": 1744434236291.245
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/scripts/GameManager.ts.meta": {
+      "time": 1744434236344.6335
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/scripts/MahjongTile.ts.meta": {
+      "time": 1744434236347.0525
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/scripts/Monster.ts.meta": {
+      "time": 1744434236347.2886
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/prefab/Grid.prefab": {
+      "time": 1744434236269.8943,
+      "uuid": "d3334fb7-88cc-44cb-849d-30be5602ab09"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/prefab/MahjongTile.prefab": {
+      "time": 1745892785956.3096,
+      "uuid": "01599341-7186-4f40-9b9e-7ad7085ba29c"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/prefab/Monster.prefab": {
+      "time": 1744434236270.8618,
+      "uuid": "b185b321-ccbd-4bc2-bdbe-0b7a860d5958"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/background.png": {
+      "time": 1745892614788.0488,
+      "uuid": "1bf421ee-dfed-40e2-8a11-d887d2c9ee7a"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/combine_tiles.py": {
+      "time": 1744434236304.673,
+      "uuid": "e81335c8-10e4-4f82-b5c0-57a7dc0149b8"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/emptyTile.png": {
+      "time": 1744434236305.2976,
+      "uuid": "d1378699-3914-473b-9980-6701ac17c09f"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/scene/MainScene.scene": {
+      "time": 1745892785956.7395,
+      "uuid": "7319cee2-ed1c-451c-b7d4-4d1f84c46d5d"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_feng_1.png": {
+      "time": 1744434236271.6028,
+      "uuid": "bc8551dd-e60b-4cb6-b71b-70a2012bccae"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_feng_2.png": {
+      "time": 1744434236272.0476,
+      "uuid": "8cd90a7c-377c-457c-a661-fbb47ded92fb"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_feng_3.png": {
+      "time": 1744434236272.2969,
+      "uuid": "d6bdd372-dd8c-4967-bf8f-54b8c11b1f40"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_feng_4.png": {
+      "time": 1744434236272.5178,
+      "uuid": "0851bcfb-8eb7-46c9-ba0a-52595be5c453"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_jian_1.png": {
+      "time": 1744434236272.9646,
+      "uuid": "33aa0e0f-4284-42c6-aea0-db42fea6ec4a"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_jian_2.png": {
+      "time": 1744434236273.2434,
+      "uuid": "8466d49f-e8bd-44dc-ad28-d1148e055d34"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_jian_3.png": {
+      "time": 1744434236273.5088,
+      "uuid": "cad2ff5e-69b6-4e88-8181-6c0634ffd9d3"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_1.png": {
+      "time": 1744434236273.8557,
+      "uuid": "8a858ea0-e112-4e92-b19c-ea5966d3957f"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_2.png": {
+      "time": 1744434236274.2854,
+      "uuid": "59d95576-8972-423c-97bb-f4b97ccc3cb6"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_3.png": {
+      "time": 1744434236274.5867,
+      "uuid": "4954b7c4-82e7-4e78-969c-9749510ab819"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_4.png": {
+      "time": 1744434236275.1143,
+      "uuid": "0e989460-2b94-487f-a7c3-763c37447fba"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_5.png": {
+      "time": 1744434236275.6885,
+      "uuid": "1fd4261c-2ab9-4d09-aa66-e9e70a411824"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_6.png": {
+      "time": 1744434236276.2576,
+      "uuid": "74a8e2a5-4f71-45ec-b9ed-1007ff8867e2"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_7.png": {
+      "time": 1744434236276.7158,
+      "uuid": "87518057-b18b-410d-b74e-81e3896b996e"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_8.png": {
+      "time": 1744434236277.6045,
+      "uuid": "90899e0b-9fb7-43d6-bfe5-76a0c535fad9"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_9.png": {
+      "time": 1744434236278.2168,
+      "uuid": "70f72659-c0c1-4c30-955f-e1b52ad4aa91"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_1.png": {
+      "time": 1744434236279.0437,
+      "uuid": "27e8a39b-4903-4367-ad79-ddb50527a1e3"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_2.png": {
+      "time": 1744434236279.6,
+      "uuid": "0d5fdc70-f99d-4fe2-a548-34f18e50c08b"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_3.png": {
+      "time": 1744434236280.255,
+      "uuid": "1408dd63-292a-48e1-a240-a0cf7f721aed"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_4.png": {
+      "time": 1744434236280.9482,
+      "uuid": "6313469d-1db8-412d-a9c2-63ecdc986bb4"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_5.png": {
+      "time": 1744434236281.3516,
+      "uuid": "38eec4b2-571a-4f66-a50b-2a4a7b090f8d"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_6.png": {
+      "time": 1744434236282.4175,
+      "uuid": "facb7ac3-3be9-45c3-840b-1dafde6dcd2d"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_7.png": {
+      "time": 1744434236283.353,
+      "uuid": "10e00120-ea2d-43ad-9d58-a87d6bfcfc03"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_8.png": {
+      "time": 1744434236283.7825,
+      "uuid": "13ec9f3f-6e04-42e5-9438-d686c72806d3"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_9.png": {
+      "time": 1744434236284.4077,
+      "uuid": "8e804f9e-2cbc-4657-b65b-8d19174cc2e9"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_1.png": {
+      "time": 1744434236285.2244,
+      "uuid": "1a17dcc0-29e0-47fd-9f6f-949f13bd6752"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_2.png": {
+      "time": 1744434236285.9255,
+      "uuid": "61e1116f-f318-408e-bb9f-5f0ef3e10b69"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_3.png": {
+      "time": 1744434236286.3198,
+      "uuid": "0898f107-4f05-453f-8d41-fa4b36dd8f29"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_4.png": {
+      "time": 1744434236286.764,
+      "uuid": "e58b5400-3bfe-4b43-ae24-3f1d3d3737c3"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_5.png": {
+      "time": 1744434236287.2312,
+      "uuid": "f038e3fb-64b7-4f57-80ab-c8d5409816b1"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_6.png": {
+      "time": 1744434236287.7734,
+      "uuid": "bd8279f3-d9b4-4ca6-8544-48b9f43fe793"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_7.png": {
+      "time": 1744434236288.0015,
+      "uuid": "ae1a801f-7f9d-4742-b5bf-714d78507b2e"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_8.png": {
+      "time": 1744434236288.5178,
+      "uuid": "51cbea15-c9be-484b-ba98-ffa668ae6157"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_9.png": {
+      "time": 1744434236288.9229,
+      "uuid": "8f4dbac1-6a88-47c0-8014-c26a70f6e19d"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MiaojiangTexture/miaojiang_bai.png": {
+      "time": 1744434236290.405,
+      "uuid": "5eabd8ef-b3fc-43cc-801f-9e92972a414a"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_feng_1.png": {
+      "time": 1744434236307.352,
+      "uuid": "b6864a81-2261-4151-a562-d1270c307379"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_feng_2.png": {
+      "time": 1744434236308.0056,
+      "uuid": "680d9869-a27f-49d6-9996-616f65f9a56b"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_feng_3.png": {
+      "time": 1744434236308.5413,
+      "uuid": "821ffb1e-e5d4-4abf-8801-7d71905d85eb"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_feng_4.png": {
+      "time": 1744434236309.8047,
+      "uuid": "d9e6de3d-50a8-4bcd-9c4b-757831aaf3c8"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_jian_1.png": {
+      "time": 1744434236310.49,
+      "uuid": "1c08566a-09fa-4db1-9d04-66751816514b"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_jian_2.png": {
+      "time": 1744434236310.9343,
+      "uuid": "151227b9-b841-4a65-a8cb-d543d370dd6f"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_jian_3.png": {
+      "time": 1744434236311.539,
+      "uuid": "fc03ff29-7aa4-4955-92bf-e8fd3041b62a"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_1.png": {
+      "time": 1744434236312.9253,
+      "uuid": "6a4acc27-a76a-4741-add3-063450870f08"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_2.png": {
+      "time": 1744434236314.4294,
+      "uuid": "1e5b8d23-2bb6-4e83-8adc-05445f1b5027"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_3.png": {
+      "time": 1744434236315.1714,
+      "uuid": "eb2b6acc-bec9-4638-ba58-f356d002a0f9"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_4.png": {
+      "time": 1744434236315.935,
+      "uuid": "6fc7bce0-77eb-4727-86f3-4a8d483ce570"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_5.png": {
+      "time": 1744434236317.2795,
+      "uuid": "94c9866a-16d2-44a4-9f1b-0035726cd38b"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_6.png": {
+      "time": 1744434236318.856,
+      "uuid": "1f4ca0ba-f632-4e12-8f4d-87e748ef5352"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_7.png": {
+      "time": 1744434236319.3613,
+      "uuid": "e49d1c49-b13c-4fb5-9c60-454d0e845a65"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_8.png": {
+      "time": 1744434236320.1187,
+      "uuid": "bd4cba06-c0fa-47ac-b740-98d7c97b6860"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_9.png": {
+      "time": 1744434236320.8403,
+      "uuid": "9af01536-091b-4bce-bc2a-38bf1d4971c9"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_1.png": {
+      "time": 1744434236321.9783,
+      "uuid": "471dcef5-7294-4d53-9bb8-33a844bf28ab"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_2.png": {
+      "time": 1744434236322.5679,
+      "uuid": "96c9c0dd-b14d-4c05-a075-cf513fcfed87"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_3.png": {
+      "time": 1744434236323.7964,
+      "uuid": "05829a86-29a0-46d6-8d53-e5b4a4b70a97"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_4.png": {
+      "time": 1744434236324.2942,
+      "uuid": "fc4c6f41-2586-4bba-be1b-606725f25a78"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_5.png": {
+      "time": 1744434236325.4756,
+      "uuid": "bdd4ced8-d4cc-4c0a-b8d7-537e82b66a90"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_6.png": {
+      "time": 1744434236326.5632,
+      "uuid": "7afcd90f-9578-4453-ada6-d7997cf7d104"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_7.png": {
+      "time": 1744434236327.9617,
+      "uuid": "a5886237-fed9-42d6-8d03-b508d2f7259b"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_8.png": {
+      "time": 1744434236330.1953,
+      "uuid": "71f17335-a0b7-4ccd-89e3-6716245b49d1"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_9.png": {
+      "time": 1744434236330.9958,
+      "uuid": "5dad12f0-1f1f-4d41-8cd2-19917862b96a"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_1.png": {
+      "time": 1744434236331.361,
+      "uuid": "b5152a6c-da45-41c6-9f69-d91f662f1f8b"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_2.png": {
+      "time": 1744434236332.3345,
+      "uuid": "04bae49b-0c75-4d17-8fbf-265cf8accbe4"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_3.png": {
+      "time": 1744434236334.5515,
+      "uuid": "302c8ebb-ac36-4c9f-a5e4-cd77aacc6960"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_4.png": {
+      "time": 1744434236335.7976,
+      "uuid": "ce967efd-0a1d-49a2-adc6-f9b751965f94"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_5.png": {
+      "time": 1744434236336.5654,
+      "uuid": "1a382ab4-bdcb-4507-a1bc-9ae0ea1c1c38"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_6.png": {
+      "time": 1744434236337.6982,
+      "uuid": "85e0507d-8500-45e2-b766-1003814ae393"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_7.png": {
+      "time": 1744434236338.976,
+      "uuid": "8c6be8f1-5493-48b2-a12d-e6fac4eea1d9"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_8.png": {
+      "time": 1744434236339.7693,
+      "uuid": "a0b81fec-1a31-40f0-81a3-410b242f1e32"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_9.png": {
+      "time": 1744434236340.6902,
+      "uuid": "401d9df4-2171-49ba-aff2-67cd8dfb9376"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/Monster/slime-IDLE/greenformal-01.atlas": {
+      "time": 1744434236292.366,
+      "uuid": "63414f18-81a1-4b98-9f9b-9fc2709a19fe"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/Monster/slime-IDLE/greenformal-01.json": {
+      "time": 1744434236293.2957,
+      "uuid": "f928c88a-0d1c-41c8-8a50-cd08b2753fd8"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/Monster/slime-IDLE/greenformal-01.png": {
+      "time": 1744434236295.6614,
+      "uuid": "fbfa6f99-2894-4c73-ab2d-579883cff294"
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/prefab/Grid.prefab.meta": {
+      "time": 1744434236270.1409
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/prefab/MahjongTile.prefab.meta": {
+      "time": 1744434236270.5962
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/prefab/Monster.prefab.meta": {
+      "time": 1744434236270.9697
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/combine_tiles.py.meta": {
+      "time": 1744434236304.9297
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/scene/MainScene.scene.meta": {
+      "time": 1744434236342.6553
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/emptyTile.png.meta": {
+      "time": 1744434236306.14
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_feng_2.png.meta": {
+      "time": 1744434236272.1816
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_feng_3.png.meta": {
+      "time": 1744434236272.4143
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_feng_1.png.meta": {
+      "time": 1744434236271.9463
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_feng_4.png.meta": {
+      "time": 1744434236272.6304
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_jian_1.png.meta": {
+      "time": 1744434236273.1028
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_jian_3.png.meta": {
+      "time": 1744434236273.6624
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_jian_2.png.meta": {
+      "time": 1744434236273.3584
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_2.png.meta": {
+      "time": 1744434236274.4514
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_3.png.meta": {
+      "time": 1744434236274.818
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_1.png.meta": {
+      "time": 1744434236274.0876
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_4.png.meta": {
+      "time": 1744434236275.4873
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_5.png.meta": {
+      "time": 1744434236275.975
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_6.png.meta": {
+      "time": 1744434236276.4983
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_7.png.meta": {
+      "time": 1744434236276.9397
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_8.png.meta": {
+      "time": 1744434236278.0474
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/background.png.meta": {
+      "time": 1745892614788.6
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tiao_9.png.meta": {
+      "time": 1744434236278.707
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_1.png.meta": {
+      "time": 1744434236279.291
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_3.png.meta": {
+      "time": 1744434236280.4934
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_2.png.meta": {
+      "time": 1744434236279.9111
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_4.png.meta": {
+      "time": 1744434236281.172
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_5.png.meta": {
+      "time": 1744434236281.8582
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_6.png.meta": {
+      "time": 1744434236283.0486
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_7.png.meta": {
+      "time": 1744434236283.6206
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_8.png.meta": {
+      "time": 1744434236284.144
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_tong_9.png.meta": {
+      "time": 1744434236285.031
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_1.png.meta": {
+      "time": 1744434236285.552
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_2.png.meta": {
+      "time": 1744434236286.0972
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_3.png.meta": {
+      "time": 1744434236286.5693
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_4.png.meta": {
+      "time": 1744434236286.956
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_5.png.meta": {
+      "time": 1744434236287.62
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_6.png.meta": {
+      "time": 1744434236287.9229
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_7.png.meta": {
+      "time": 1744434236288.4243
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_8.png.meta": {
+      "time": 1744434236288.7437
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MahjongTiles/mj_wan_9.png.meta": {
+      "time": 1744434236289.062
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/MiaojiangTexture/miaojiang_bai.png.meta": {
+      "time": 1744434236290.8164
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_feng_3.png.meta": {
+      "time": 1744434236309.008
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_feng_1.png.meta": {
+      "time": 1744434236307.5046
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_feng_2.png.meta": {
+      "time": 1744434236308.2703
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_feng_4.png.meta": {
+      "time": 1744434236310.2158
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_jian_1.png.meta": {
+      "time": 1744434236310.6675
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_jian_3.png.meta": {
+      "time": 1744434236311.7913
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_jian_2.png.meta": {
+      "time": 1744434236311.2275
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_2.png.meta": {
+      "time": 1744434236314.6487
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_1.png.meta": {
+      "time": 1744434236314.0588
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_3.png.meta": {
+      "time": 1744434236315.5105
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_4.png.meta": {
+      "time": 1744434236316.1987
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_5.png.meta": {
+      "time": 1744434236317.6428
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_6.png.meta": {
+      "time": 1744434236319.048
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_7.png.meta": {
+      "time": 1744434236319.8247
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_8.png.meta": {
+      "time": 1744434236320.3994
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tiao_9.png.meta": {
+      "time": 1744434236321.0715
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_1.png.meta": {
+      "time": 1744434236322.0674
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_3.png.meta": {
+      "time": 1744434236323.8713
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_2.png.meta": {
+      "time": 1744434236323.0396
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_4.png.meta": {
+      "time": 1744434236324.8533
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_5.png.meta": {
+      "time": 1744434236325.7869
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_6.png.meta": {
+      "time": 1744434236326.6575
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_8.png.meta": {
+      "time": 1744434236330.5317
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_7.png.meta": {
+      "time": 1744434236328.2324
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_tong_9.png.meta": {
+      "time": 1744434236331.0723
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_1.png.meta": {
+      "time": 1744434236331.4226
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_2.png.meta": {
+      "time": 1744434236332.8516
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_5.png.meta": {
+      "time": 1744434236336.6448
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_3.png.meta": {
+      "time": 1744434236334.8823
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_4.png.meta": {
+      "time": 1744434236336.336
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/Monster/slime-IDLE/greenformal-01.atlas.meta": {
+      "time": 1744434236292.7314
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_7.png.meta": {
+      "time": 1744434236339.2102
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_6.png.meta": {
+      "time": 1744434236337.8726
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_8.png.meta": {
+      "time": 1744434236339.8645
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/Monster/slime-IDLE/greenformal-01.json.meta": {
+      "time": 1744434236293.642
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/output/combined_mj_wan_9.png.meta": {
+      "time": 1744434236340.8296
+    },
+    "/Users/yc/Documents/MahjongDenfense/assets/resources/Monster/slime-IDLE/greenformal-01.png.meta": {
+      "time": 1744434236295.8345
     }
   },
   "missing": {
