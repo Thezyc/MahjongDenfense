@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 2453.051875,
+      "mTimestamp": 3330.158584,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -724,7 +724,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 3336400.988792,
+      "mTimestamp": 13254786.831,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -1672,7 +1672,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1745894826713,
+      "mTimestamp": 1745982774381,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",
@@ -2536,7 +2536,7 @@
     },
     "file:///Users/yc/Documents/MahjongDenfense/assets/scripts/MahjongTile.ts": {
       "mTimestamp": {
-        "mtime": 1745898158602.0789,
+        "mtime": 1745996021420.4824,
         "uuid": "246fe37d-7d01-49a1-88d2-e59ffd514916"
       },
       "chunkId": "f2b8ba9c0315c5438e8314191d25c3295b2323fa",
@@ -2552,11 +2552,11 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 99
+              "column": 106
             },
             "end": {
               "line": 1,
-              "column": 103
+              "column": 110
             }
           }
         }

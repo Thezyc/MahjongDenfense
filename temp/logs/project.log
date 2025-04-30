@@ -1,29 +1,31 @@
-4-29-2025 10:47:06 - log: Load engine in /Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine
-4-29-2025 10:47:06 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,custom-pipeline,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
-4-29-2025 10:47:06 - log: Register native engine in /Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/native
-4-29-2025 10:47:06 - log: Request namespace: device-list
-4-29-2025 10:47:10 - log: [Scene] meshopt wasm decoder initialized
-4-29-2025 10:47:10 - log: [Scene] [box2d]:box2d wasm lib loaded.
-4-29-2025 10:47:10 - log: [Scene] [bullet]:bullet wasm lib loaded.
-4-29-2025 10:47:10 - log: [Scene] [PHYSICS]: using builtin.
-4-29-2025 10:47:10 - log: [Scene] Cocos Creator v3.8.5
-4-29-2025 10:47:10 - log: [Scene] Using custom pipeline: Builtin
-4-29-2025 10:47:10 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
-4-29-2025 10:47:48 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
+4-30-2025 11:12:54 - log: Load engine in /Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine
+4-30-2025 11:12:54 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,custom-pipeline,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
+4-30-2025 11:12:54 - log: Register native engine in /Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+4-30-2025 11:12:54 - log: Request namespace: device-list
+4-30-2025 11:12:58 - log: [Scene] meshopt wasm decoder initialized
+4-30-2025 11:12:58 - log: [Scene] [box2d]:box2d wasm lib loaded.
+4-30-2025 11:12:58 - log: [Scene] [bullet]:bullet wasm lib loaded.
+4-30-2025 11:12:58 - log: [Scene] [PHYSICS]: using builtin.
+4-30-2025 11:12:58 - log: [Scene] Cocos Creator v3.8.5
+4-30-2025 11:12:58 - log: [Scene] Using custom pipeline: Builtin
+4-30-2025 11:12:58 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+4-30-2025 11:39:31 - warn: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.Error: [Scene] 'systemEvent' is deprecated since v3.4.0, please use 'input' instead.
     at console.warn (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@sentry/src/instrument/console.ts:40:20)
-    at NewConsole.warn (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1510)
-    at findVsCode (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/utils.ccc:1:3546)
-    at Object.openCode [as open] (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/utils.ccc:1:3282)
-    at Ipc.<anonymous> (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/ipc.ccc:1:530)
-4-29-2025 11:26:49 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
-    at console.warn (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@sentry/src/instrument/console.ts:40:20)
-    at NewConsole.warn (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1510)
-    at findVsCode (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/utils.ccc:1:3546)
-    at Object.openCode [as open] (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/utils.ccc:1:3282)
-    at Ipc.<anonymous> (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/ipc.ccc:1:530)
-4-29-2025 11:28:20 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
-    at console.warn (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@sentry/src/instrument/console.ts:40:20)
-    at NewConsole.warn (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/console.ccc:1:1510)
-    at findVsCode (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/utils.ccc:1:3546)
-    at Object.openCode [as open] (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/modules/engine-extensions/extensions/engine-extends/dist/handler/utils.ccc:1:3282)
-    at Ipc.<anonymous> (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/asset-db/dist/worker/ipc.ccc:1:530)
+    at warn (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:128492:12)
+    at warnID (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:128680:5)
+    at _checkObsoleteByName (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:144340:7)
+    at __checkObsolete__ (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:144359:7)
+    at Object.execute (file:///Users/yc/Documents/MahjongDenfense/temp/programming/packer-driver/targets/editor/chunks/f2/f2b8ba9c0315c5438e8314191d25c3295b2323fa.js:25:7)
+    at doExec (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:493:28
+    at Array.forEach (<anonymous>)
+    at postOrderExec (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:491:10)
+    at /Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/yc/Documents/MahjongDenfense/temp/programming/packer-driver/targets/editor/chunks/6d/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/yc/Documents/MahjongDenfense/temp/programming/packer-driver/targets/editor/chunks/6d/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:358:13)
+    at Executor.reload (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:235:13)
+    at /Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1787
+    at GlobalEnv.processQueue (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:2184)
+    at GlobalEnv.record (/Applications/Cocos/Creator/3.8.5/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1955)
